@@ -4,6 +4,7 @@
 	<POIs>
 		<!-- Echovald Wilds -->
 		<POI MapID="1452" xpos="771.568"  ypos="-0.36946" zpos="708.233"  GUID="etWpSZiPqEuGILukjNMioQ==" type="abaddon.harvestables.plants.cabbage"/>
+		<POI MapID="1452" xpos="771.481"  ypos="-0.36946" zpos="711.257"  GUID="qYi+S8nxDUed/m/72BAZ9g==" type="abaddon.harvestables.plants.cabbage"/>
 		<POI MapID="1452" xpos="771.593"  ypos="-0.36946" zpos="714.44"   GUID="Rxg756sy7kuCZrRDto3kqA==" type="abaddon.harvestables.plants.cabbage"/>
 		<POI MapID="1452" xpos="775.822"  ypos="-0.36946" zpos="714.281"  GUID="8c1U8dKeuU24FZ0SQQgAPg==" type="abaddon.harvestables.plants.cabbage"/>
 		<POI MapID="1452" xpos="775.927"  ypos="-0.36946" zpos="710.977"  GUID="i1icBJVKvESOmANCKOQbaQ==" type="abaddon.harvestables.plants.cabbage"/>
@@ -16,6 +17,7 @@
 		<POI MapID="1452" xpos="118.494"  ypos="148.539"  zpos="-587.76"  GUID="+2IP8MmV10CDNHpnb5wr4w==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="771.389"  ypos="-0.36946" zpos="721.623"  GUID="fPz6ukPm1UiXr53EncaN4Q==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="771.519"  ypos="-0.36946" zpos="724.89"   GUID="fR0ERM/o20On4gT/RxcYQg==" type="abaddon.harvestables.plants.spinach"/>
+		<POI MapID="1452" xpos="771.778"  ypos="-0.36946" zpos="718.298"  GUID="7wo42N86M0inpCcsz77M3A==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="775.826"  ypos="-0.36946" zpos="725.157"  GUID="OkNKfVxlCEaNjCSnowcKFQ==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="775.938"  ypos="-0.36946" zpos="721.604"  GUID="NuddI/X8a02+ZdRkEoqXtw==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="776.206"  ypos="-0.36946" zpos="718.229"  GUID="qlKT++ZNHEiYU/snFs87pQ==" type="abaddon.harvestables.plants.spinach"/>
@@ -29,6 +31,7 @@
 		<POI MapID="1452" xpos="795.15"   ypos="-0.36946" zpos="714.5"    GUID="40gnzG984UKffmPwKeDm8A==" type="abaddon.harvestables.plants.taproots"/>
 		<POI MapID="1452" xpos="795.206"  ypos="-0.36946" zpos="708.082"  GUID="QUdfmh2IKEGRCBh7q0zqIQ==" type="abaddon.harvestables.plants.taproots"/>
 		<POI MapID="1452" xpos="799.463"  ypos="-0.36946" zpos="714.169"  GUID="ZobUp2WiI0W82ruIRGLUUg==" type="abaddon.harvestables.plants.taproots"/>
+		<POI MapID="1452" xpos="799.639"  ypos="-0.36946" zpos="708.103"  GUID="kbwwV/2tHECfL2xeuJdqCQ==" type="abaddon.harvestables.plants.taproots"/>
 		<POI MapID="1452" xpos="799.829"  ypos="-0.36891" zpos="711.115"  GUID="pBHprCMW6UuH/OJRjHllpw==" type="abaddon.harvestables.plants.taproots"/>
 	</POIs>
 </OverlayData>

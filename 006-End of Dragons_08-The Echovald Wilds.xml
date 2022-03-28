@@ -75,6 +75,11 @@
 		<POI MapID="1452" xpos="1037.66"  ypos="99.7374"  zpos="-665.787" GUID="/o6biUygnE2dC/BVYCBllA==" type="abaddon.end_of_dragons.the_echovald_wilds.lighting_the_echovald_wilds"        achievementBit="57"   tip-description="n°58"/>
 		<POI MapID="1452" xpos="-106.018" ypos="204.299"  zpos="-56.6738" GUID="G0Y5CgJF3EqEMQzmlJPLAw==" type="abaddon.end_of_dragons.the_echovald_wilds.lighting_the_echovald_wilds"        achievementBit="58"   tip-description="n°59"/>
 
+		<!-- Respect Your Elders -->
+		<POI MapID="1452" xpos="1082.26"  ypos="61.5037"  zpos="-550.745" GUID="h543Lj7Up0uxZgzk8/lQ3Q==" type="abaddon.end_of_dragons.the_echovald_wilds.respect_your_elders"                                      tip-description="Soar Honorclaw"/>
+		<POI MapID="1452" xpos="1022.34"  ypos="39.572"   zpos="-569.352" GUID="IgM9NQd/4EWi5GIGzjlp5w==" type="abaddon.end_of_dragons.the_echovald_wilds.respect_your_elders"                                      tip-description="Ryun Greyfeather"/>
+		<POI MapID="1452" xpos="928.914"  ypos="67.7092"  zpos="-616.981" GUID="93AX4QBzY0COOC6C0HxnNw==" type="abaddon.end_of_dragons.the_echovald_wilds.respect_your_elders"                                      tip-description="Talon Silverwing"/>
+
 		<!-- The Haunted Altar -->
 		<POI MapID="1452" xpos="283.82"   ypos="248.601"  zpos="348.431"  GUID="K/zdhUrkVU6Iy8GdUpyVfQ==" type="abaddon.end_of_dragons.the_echovald_wilds.the_haunted_altar"/>
 
