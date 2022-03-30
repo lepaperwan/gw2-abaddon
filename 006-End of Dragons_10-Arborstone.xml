@@ -3,24 +3,28 @@
 <OverlayData>
 	<POIs>
 		<!-- A Sampling of Snargle -->
-		<POI MapID="1442" xpos="-124.795" ypos="53.5828"  zpos="-424.773" GUID="nyX8XISN5UacK681cpqSgQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="0"    tip-description="n°1"/>
+		<POI MapID="1442" xpos="-124.795"  ypos="53.5828"   zpos="-424.773"  GUID="nyX8XISN5UacK681cpqSgQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="0"    tip-description="n°1: Love Is in the Eir"/>
+		<POI MapID="1438" xpos="-297.87"   ypos="260.775"   zpos="549.75"    GUID="eEjxioAlykO7ZcfjCoTzLQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="1"    tip-description="n°2: Scarlet Fever"/>
 
 		<!-- Albax, the Unlucky -->
-		<POI MapID="29" xpos="-75.2007"   ypos="45.015"   zpos="279.37"   GUID="/0qQdSE9j06Odwmk4BszNA==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="6"    tip-description="Worn Plush Doll"/>
+		<POI MapID="1438" xpos="206.375"   ypos="2.625"     zpos="318.375"   GUID="WalGnANhkU6Lv6sjXAaV4w==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="1"    tip-description="Enune"/>
+		<POI MapID="29"   xpos="-75.2007"  ypos="45.015"    zpos="279.37"    GUID="/0qQdSE9j06Odwmk4BszNA==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="6"    tip-description="Worn Plush Doll"/>
 
 		<!-- Building a Better Bot -->
-		<POI MapID="1428" xpos="-766.966" ypos="94.8294"  zpos="648.422"  GUID="fSTGIGmSsUOP2D1CpTH9ow==" type="abaddon.end_of_dragons.arborstone.building_a_better_bot"                      achievementBit="0"    tip-description="n°1"/>
+		<POI MapID="1428" xpos="-766.966"  ypos="94.8294"   zpos="648.422"   GUID="fSTGIGmSsUOP2D1CpTH9ow==" type="abaddon.end_of_dragons.arborstone.building_a_better_bot"                      achievementBit="0"    tip-description="n°1"/>
 
 		<!-- Character Growth -->
-		<POI MapID="1428" xpos="-713.388" ypos="94.8637"  zpos="609.826"  GUID="TCrehqfsPk2PcSsU69/NvQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="0"    tip-description="n°1"/>
+		<POI MapID="1428" xpos="-713.388"  ypos="94.8637"   zpos="609.826"   GUID="TCrehqfsPk2PcSsU69/NvQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="0"    tip-description="n°1"/>
 
 		<!-- Pure Enmity -->
-		<POI MapID="1438" xpos="752.89"   ypos="48.6668"  zpos="506.91"   GUID="ykzgLRZxAEKTV2/9y+0nXA==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="0"    tip-description="n°1: Purist Document Fragment"/>
-		<POI MapID="1438" xpos="927.04"   ypos="166.508"  zpos="372.42"   GUID="6Lws3FL7Tk+WeISoFtN13g==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="2"    tip-description="n°3: Purist Document Fragment"/>
-		<POI MapID="1438" xpos="1031.08"  ypos="2.62779"  zpos="624.579"  GUID="dNf+LvoqJU6c+5uWfOlRDw==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="3"    tip-description="n°4: Purist Document Fragment"/>
+		<POI MapID="1438" xpos="752.89"    ypos="48.6668"   zpos="506.91"    GUID="ykzgLRZxAEKTV2/9y+0nXA==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="0"    tip-description="n°1: Purist Document Fragment"/>
+		<POI MapID="1438" xpos="793.114"   ypos="46.94"     zpos="307.28"    GUID="WyjLi3UKG0WzNMqRJjwCYQ==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="1"    tip-description="n°2: Purist Document Fragment"/>
+		<POI MapID="1438" xpos="927.04"    ypos="166.508"   zpos="372.42"    GUID="6Lws3FL7Tk+WeISoFtN13g==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="2"    tip-description="n°3: Purist Document Fragment"/>
+		<POI MapID="1438" xpos="1031.08"   ypos="2.62779"   zpos="624.579"   GUID="dNf+LvoqJU6c+5uWfOlRDw==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="3"    tip-description="n°4: Purist Document Fragment"/>
 
 		<!-- Tracing the Tapestry -->
-		<POI MapID="1452" xpos="370.5"    ypos="100"      zpos="236"      GUID="WKoN8xsUP0qW5n8IuGjpDA==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="6"    tip-description="Pile of Clothes"/>
+		<POI MapID="1438" xpos="467.25"    ypos="20.9573"   zpos="15.8182"   GUID="OdUNZTbByEmqznhaHkrOeA==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="5"    tip-description="Officer Suni"/>
+		<POI MapID="1452" xpos="370.5"     ypos="100"       zpos="236"       GUID="WKoN8xsUP0qW5n8IuGjpDA==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="6"    tip-description="Pile of Clothes"/>
 	</POIs>
 </OverlayData>
 

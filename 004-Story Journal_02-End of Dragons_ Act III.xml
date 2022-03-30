@@ -3,11 +3,11 @@
 <OverlayData>
 	<POIs>
 		<!-- Echovald Unmade -->
-		<POI MapID="1452" xpos="-879.229" ypos="179.683"  zpos="-502.435" GUID="gHD1K9MjdkOoTJddOA9/rw==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="0"/>
-		<POI MapID="1452" xpos="438.095"  ypos="62.3085"  zpos="-283.292" GUID="MUUe0rTNRkykQ+X4deZ40Q==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="1"/>
-		<POI MapID="1452" xpos="816.957"  ypos="95.5134"  zpos="-75.7712" GUID="SpOb4GVos0u8MDqYVYg79w==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="2"/>
-		<POI MapID="1452" xpos="-826.939" ypos="132.408"  zpos="-81.7008" GUID="ZzRHm7ZiukyIWuNdtot/nw==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="3"/>
-		<POI MapID="1452" xpos="-141.139" ypos="178.469"  zpos="346.357"  GUID="kZKqLX1NVEyeY3G0CVt12A==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="4"/>
+		<POI MapID="1452" xpos="-879.229"  ypos="179.683"   zpos="-502.435"  GUID="gHD1K9MjdkOoTJddOA9/rw==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="0"/>
+		<POI MapID="1452" xpos="438.095"   ypos="62.3085"   zpos="-283.292"  GUID="MUUe0rTNRkykQ+X4deZ40Q==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="1"/>
+		<POI MapID="1452" xpos="816.957"   ypos="95.5134"   zpos="-75.7712"  GUID="SpOb4GVos0u8MDqYVYg79w==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="2"/>
+		<POI MapID="1452" xpos="-826.939"  ypos="132.408"   zpos="-81.7008"  GUID="ZzRHm7ZiukyIWuNdtot/nw==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="3"/>
+		<POI MapID="1452" xpos="-141.139"  ypos="178.469"   zpos="346.357"   GUID="kZKqLX1NVEyeY3G0CVt12A==" type="abaddon.story_journal.end_of_dragons__act_iii.echovald_unmade"                achievementBit="4"/>
 	</POIs>
 </OverlayData>
 

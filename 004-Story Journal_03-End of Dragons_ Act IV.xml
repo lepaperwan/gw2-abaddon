@@ -1,0 +1,14 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
+<OverlayData>
+	<POIs>
+		<!-- Kaineng Unmade -->
+		<POI MapID="1438" xpos="-549.049"  ypos="120.171"   zpos="-201.345"  GUID="R3D9gSIy0kaBn9F2FgkdDg==" type="abaddon.story_journal.end_of_dragons__act_iv.kaineng_unmade"                  achievementBit="0"    tip-description="n°1"/>
+		<POI MapID="1438" xpos="-527.526"  ypos="129.36"    zpos="107.199"   GUID="d4sEujZwDkC+zr1Lv/Q3uA==" type="abaddon.story_journal.end_of_dragons__act_iv.kaineng_unmade"                  achievementBit="1"    tip-description="n°2"/>
+		<POI MapID="1438" xpos="-167.3"    ypos="120.156"   zpos="-469.057"  GUID="hipjht1EAEK3gR8dxD5P3Q==" type="abaddon.story_journal.end_of_dragons__act_iv.kaineng_unmade"                  achievementBit="2"    tip-description="n°3"/>
+		<POI MapID="1438" xpos="741.112"   ypos="21.1847"   zpos="4.05776"   GUID="zMV3jL7xeEuZ9Hypko4xEg==" type="abaddon.story_journal.end_of_dragons__act_iv.kaineng_unmade"                  achievementBit="3"    tip-description="n°4"/>
+		<POI MapID="1438" xpos="-144.338"  ypos="121.538"   zpos="437"       GUID="MZa7dyAzpE6a2SrlB8o6gQ==" type="abaddon.story_journal.end_of_dragons__act_iv.kaineng_unmade"                  achievementBit="4"    tip-description="n°5"/>
+	</POIs>
+</OverlayData>
+
+<!-- vim: set fileencoding=utf-8 filetype=xml autoindent noexpandtab shiftwidth=4 softtabstop=4 tabstop=4 nowrap: -->
