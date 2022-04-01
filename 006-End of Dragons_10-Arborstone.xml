@@ -16,6 +16,11 @@
 		<!-- Character Growth -->
 		<POI MapID="1428" xpos="-713.388"  ypos="94.8637"   zpos="609.826"   GUID="TCrehqfsPk2PcSsU69/NvQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="0"    tip-description="n°1"/>
 
+		<!-- Lost Lore -->
+		<POI MapID="1428" xpos="-669"      ypos="119.25"    zpos="562"       GUID="HwHcGnanhUCRbmPVQcnSSw==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="0"/>
+		<POI MapID="1442" xpos="-974.25"   ypos="173.75"    zpos="410.625"   GUID="JWKWv8iTvUq838OsrjCRzQ==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="5"    tip-description="Ministry of Justice Rulings, 1738-1741 CC"/>
+		<POI MapID="1442" xpos="177"       ypos="82.625"    zpos="-353.125"  GUID="Anrd7Q8sGESWJNTEuUpp+Q==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="9"    tip-description="Collected Ministry Edicts, 1747 CC"/>
+
 		<!-- Pure Enmity -->
 		<POI MapID="1438" xpos="752.89"    ypos="48.6668"   zpos="506.91"    GUID="ykzgLRZxAEKTV2/9y+0nXA==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="0"    tip-description="n°1: Purist Document Fragment"/>
 		<POI MapID="1438" xpos="793.114"   ypos="46.94"     zpos="307.28"    GUID="WyjLi3UKG0WzNMqRJjwCYQ==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="1"    tip-description="n°2: Purist Document Fragment"/>
