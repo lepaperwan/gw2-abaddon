@@ -8,6 +8,16 @@
 		<POI MapID="1438" xpos="950.625"   ypos="81.5"      zpos="-201.75"   GUID="WyTGlq/RGkG3cft/AChemA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.charging_station"/>
 
 		<!-- Jade Batteries -->
+		<POI MapID="1442" xpos="-416.625"  ypos="1.375"     zpos="-424.875"  GUID="FrunKkN86US9eTuP1s98bg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-231.75"   ypos="0.625"     zpos="-154"      GUID="rU3W9Y39akST4QIQBQF2KQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-219.75"   ypos="20.25"     zpos="-280.875"  GUID="r15yXdxwQkmGKc1uVsPbXw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-193.125"  ypos="37.375"    zpos="-466.25"   GUID="v1kP20dEYUG9fNIoUwckGg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-189.125"  ypos="1.75"      zpos="-235"      GUID="pB+tpJ+GWEafltt2Xfq8aw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-170.25"   ypos="16.75"     zpos="-245.5"    GUID="zBlOBjaL5kGfLT2kojAzAQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-152.875"  ypos="1.875"     zpos="-138.125"  GUID="gzXvL36ve0OjyeuxMneJcQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="-129.125"  ypos="18.75"     zpos="-257.75"   GUID="dfl+Vvnl0UuRzA9qp+BjxQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="407.875"   ypos="71.25"     zpos="-341.875"  GUID="InIEZ0714UONiTEg0tAMYw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1442" xpos="496.75"    ypos="113.125"   zpos="-192.5"    GUID="f8AuW4zvtEyzg4xG+KmrIw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-898.375"  ypos="0.25"      zpos="-643.75"   GUID="O6rRN8rLvkeGI0gxvo+5xA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-824.875"  ypos="1.125"     zpos="-706.75"   GUID="K5YnvDv+NkKXMFGWrYeYvw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-779"      ypos="1.5"       zpos="-762.625"  GUID="75w1dw7w+0asKEeOsqWY7Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
@@ -69,6 +79,19 @@
 		<POI MapID="1438" xpos="1024"      ypos="2.625"     zpos="-177"      GUID="rvzir8RWA02oY1EGAkbjag==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="1028.5"    ypos="51.25"     zpos="-80.125"   GUID="Q2QbS48+tUqPMROqAN3UHA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="1048.75"   ypos="74.125"    zpos="-113.5"    GUID="BGrA5mv/IEuAj4lRod7s3w==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-494.5"    ypos="129.25"    zpos="14.375"    GUID="alALv/1YAE6s/WKUUBGqYA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-478.5"    ypos="125.625"   zpos="-2.25"     GUID="cUaQz7ksfUazQXB98ve4zg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-431.375"  ypos="117"       zpos="-56.25"    GUID="kgwLYFkju0qdW49i2E+sFQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-428.125"  ypos="149.375"   zpos="-131.5"    GUID="FulmaRd4T0eSrGOwsPtleA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-311.25"   ypos="179.75"    zpos="137.875"   GUID="ctrjaObCDE6eAvXeHywO0g==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-270.625"  ypos="179.125"   zpos="68.125"    GUID="glV+UocFm0mr6eapdeP6yw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-179.25"   ypos="134.625"   zpos="-619.5"    GUID="PO9GFYCxAEW2a4prf7m9Og==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-107.75"   ypos="145.5"     zpos="-556.375"  GUID="VwIvqYTJRUK+AXhmqpjIBw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-45.25"    ypos="105"       zpos="-646.625"  GUID="x39w/e6Oy02VZsn+XMg8zw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="64.5"      ypos="173.125"   zpos="485.25"    GUID="EMnePZYjm06TlwsDyS2pQw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="152"       ypos="212.125"   zpos="418.125"   GUID="OE2ClmvSXE2NtXWCe0TM3Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="179.625"   ypos="200.375"   zpos="628.25"    GUID="eiF4NnOnkUiCEJt0jrqxNg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="1046.5"    ypos="40.75"     zpos="-632.375"  GUID="IipkyBYbLkelNQK/p3u7Xg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 
 		<!-- Teleporters -->
 		<POI MapID="1438" xpos="-20.875"   ypos="20.5"      zpos="-70.625"   GUID="qW/xbHbKqECmKIJ8MqB0gA==" type="abaddon.assistances.navigation.end_of_dragons.new_kaineng_city.teleporter" tip-name="Ministry Ward"/>
