@@ -15,7 +15,8 @@
 		<POI MapID="1428" xpos="-766.966"  ypos="94.8294"   zpos="648.422"   GUID="fSTGIGmSsUOP2D1CpTH9ow==" type="abaddon.end_of_dragons.arborstone.building_a_better_bot"                      achievementBit="0"    tip-description="n°1"/>
 
 		<!-- Character Growth -->
-		<POI MapID="1428" xpos="-713.388"  ypos="94.8637"   zpos="609.826"   GUID="TCrehqfsPk2PcSsU69/NvQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="0"    tip-description="n°1"/>
+		<POI MapID="1428" xpos="-713.388"  ypos="94.8637"   zpos="609.826"   GUID="TCrehqfsPk2PcSsU69/NvQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="0"    tip-description="Snargle Goldclaw"/>
+		<POI MapID="1442" xpos="-167.25"   ypos="16.875"    zpos="-245.375"  GUID="NTSLgrZIVUaAMOrkK+2pug==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="2"    tip-description="Help find and return the lost toys to the children"/>
 
 		<!-- Lost Lore -->
 		<POI MapID="1428" xpos="-669"      ypos="119.25"    zpos="562"       GUID="HwHcGnanhUCRbmPVQcnSSw==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="0"/>
