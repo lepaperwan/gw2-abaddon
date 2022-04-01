@@ -1,0 +1,10 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
+<OverlayData>
+	<POIs>
+		<!-- Seitung Province -->
+		<POI MapID="1442" xpos="168.5"     ypos="54.875"    zpos="-514.625"  GUID="1UCiC9FmAEKZpFGBvsPpuw==" type="abaddon.end_of_dragons.mastery_insights.seitung_province_insight__zen_daijun_temple"/>
+	</POIs>
+</OverlayData>
+
+<!-- vim: set fileencoding=utf-8 filetype=xml autoindent noexpandtab shiftwidth=4 softtabstop=4 tabstop=4 nowrap: -->
