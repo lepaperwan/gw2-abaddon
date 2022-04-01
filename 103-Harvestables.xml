@@ -2,6 +2,29 @@
 
 <OverlayData>
 	<POIs>
+		<!-- Seitung Province -->
+		<POI MapID="1442" xpos="-197.125"  ypos="29.25"     zpos="-404.5"    GUID="NfF9Ob5FPEeiE3+IH0D7hQ==" type="abaddon.harvestables.plants.cabbage"/>
+		<POI MapID="1442" xpos="-194.75"   ypos="30.375"    zpos="-411"      GUID="0WYomNV5EEGY5bMrW66wJA==" type="abaddon.harvestables.plants.cabbage"/>
+		<POI MapID="1442" xpos="-129"      ypos="48.375"    zpos="-455.875"  GUID="psVCDMwQLEKAaBq9NcOQZw==" type="abaddon.harvestables.plants.carrots"/>
+		<POI MapID="1442" xpos="-127.875"  ypos="48.375"    zpos="-458.625"  GUID="JT3rt/Rl/0+znWfsDdDENQ==" type="abaddon.harvestables.plants.carrots"/>
+		<POI MapID="1442" xpos="-153.75"   ypos="43.75"     zpos="-463.75"   GUID="1/NvDuqiUUikK4hVsXb2LA==" type="abaddon.harvestables.plants.flax"/>
+		<POI MapID="1442" xpos="-152.625"  ypos="43.75"     zpos="-459.25"   GUID="qPOavfbt4Ey+KlYVfHkydw==" type="abaddon.harvestables.plants.flax"/>
+		<POI MapID="1442" xpos="-151.25"   ypos="43.75"     zpos="-462.125"  GUID="sBR4Tnt/HEKmEcQiUwm8Bg==" type="abaddon.harvestables.plants.flax"/>
+		<POI MapID="1442" xpos="-149.5"    ypos="43.75"     zpos="-465"      GUID="SyZCGJ3cmUiTATHfihtAjw==" type="abaddon.harvestables.plants.flax"/>
+		<POI MapID="1442" xpos="-163.25"   ypos="40.125"    zpos="-429.75"   GUID="CBtReiBXEkyie5RLdQqtIg==" type="abaddon.harvestables.plants.herbseedlings"/>
+		<POI MapID="1442" xpos="-163.75"   ypos="40.125"    zpos="-424.125"  GUID="t5RADKlwgE24/lDP3KHaQw==" type="abaddon.harvestables.plants.herbseedlings"/>
+		<POI MapID="1442" xpos="-163"      ypos="43.75"     zpos="-473.5"    GUID="uLq2Fq0y3Uu2U34N4e6MGQ==" type="abaddon.harvestables.plants.potato"/>
+		<POI MapID="1442" xpos="-163"      ypos="43.75"     zpos="-477.375"  GUID="MNoiCHLYi0mm2Qm1F4W4Sw==" type="abaddon.harvestables.plants.potato"/>
+		<POI MapID="1442" xpos="-159.125"  ypos="43.625"    zpos="-473.375"  GUID="8+IvE+oPh06qFjO+hzNSJg==" type="abaddon.harvestables.plants.potato"/>
+		<POI MapID="1442" xpos="-211.625"  ypos="28.875"    zpos="-413.625"  GUID="zUF/bg2HeUqlIWXfmUn41Q==" type="abaddon.harvestables.plants.soybeans"/>
+		<POI MapID="1442" xpos="-207.875"  ypos="29"        zpos="-414.75"   GUID="2VjyB+vJN0i1/v/RMrOgAQ==" type="abaddon.harvestables.plants.soybeans"/>
+		<POI MapID="1442" xpos="-110.625"  ypos="48.375"    zpos="-470"      GUID="c7Kvj2FU2kucI9/p0rQi4Q==" type="abaddon.harvestables.plants.sugarpumpkin"/>
+		<POI MapID="1442" xpos="-104.125"  ypos="48.375"    zpos="-469.875"  GUID="/LJ3sIubcUWOFtVZe6REwA==" type="abaddon.harvestables.plants.sugarpumpkin"/>
+		<POI MapID="1442" xpos="-104.5"    ypos="48.25"     zpos="-473"      GUID="8G3VKrQBzkGOJkPZwbIwXw==" type="abaddon.harvestables.plants.sugarpumpkin"/>
+		<POI MapID="1442" xpos="-117.625"  ypos="48.25"     zpos="-471.75"   GUID="Bmel/TLcEEyrgmwvgtsUtw==" type="abaddon.harvestables.plants.zucchini"/>
+		<POI MapID="1442" xpos="-116.75"   ypos="48.375"    zpos="-468.375"  GUID="wKyzIgpyI0GcOfMorhChUA==" type="abaddon.harvestables.plants.zucchini"/>
+		<POI MapID="1442" xpos="-113.75"   ypos="48.375"    zpos="-468.75"   GUID="167a7I/LPUS3ZF3dwaSakA==" type="abaddon.harvestables.plants.zucchini"/>
+
 		<!-- New Kaineng City -->
 		<POI MapID="1438" xpos="-363.375"  ypos="120.875"   zpos="-318.5"    GUID="ryOMVTPWJ0OoEIA6+ozAYw==" type="abaddon.harvestables.lumber.lumber_synthesizer"/>
 		<POI MapID="1438" xpos="-305.625"  ypos="120.625"   zpos="-417"      GUID="9B7qWw63rU23EiAG/L4S5Q==" type="abaddon.harvestables.lumber.lumber_synthesizer"/>

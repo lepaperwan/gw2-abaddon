@@ -4206,7 +4206,14 @@
 			</MarkerCategory>
 			<MarkerCategory name="plants"																				DisplayName="Plants"																									iconFile="Img/Harvestables/Plant.png"><!-- TODO: Icons -->
 				<MarkerCategory name="cabbage"																			DisplayName="Cabbage"																									iconFile="Img/Harvestables/Plant/Cabbage.png"/>
+				<MarkerCategory name="carrots"																			DisplayName="Carrots"																									iconFile="Img/Harvestables/Plant/Carrots.png"/>
+				<MarkerCategory name="flax"																				DisplayName="Flax"																										iconFile="Img/Harvestables/Plant/Flax.png"/>
+				<MarkerCategory name="herbseedlings"																	DisplayName="Herb Seedlings"/>
+				<MarkerCategory name="potato"																			DisplayName="Potato"																									iconFile="Img/Harvestables/Plant/Potato.png"/>
+				<MarkerCategory name="soybeans"																			DisplayName="Soybeans"/>
 				<MarkerCategory name="spinach"																			DisplayName="Spinach"																									iconFile="Img/Harvestables/Plant/Spinach.png"/>
+				<MarkerCategory name="sugarpumpkin"																		DisplayName="Sugar Pumpin"																								iconFile="Img/Harvestables/Plant/SugarPumpkin.png"/>
+				<MarkerCategory name="zucchini"																			DisplayName="Zucchini"/>
 				<MarkerCategory name="berry_synthesizer"																DisplayName="Berry Synthesizer"/>
 				<MarkerCategory name="herb_synthesizer"																	DisplayName="Herb Synthesizer"/>
 				<MarkerCategory name="vegetable_synthesizer"															DisplayName="Vegetable Synthesizer"/>
