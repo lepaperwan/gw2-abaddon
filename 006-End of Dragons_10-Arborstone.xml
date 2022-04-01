@@ -3,8 +3,9 @@
 <OverlayData>
 	<POIs>
 		<!-- A Sampling of Snargle -->
-		<POI MapID="1442" xpos="-124.795"  ypos="53.5828"   zpos="-424.773"  GUID="nyX8XISN5UacK681cpqSgQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="0"    tip-description="n°1: Love Is in the Eir"/>
-		<POI MapID="1438" xpos="-297.87"   ypos="260.775"   zpos="549.75"    GUID="eEjxioAlykO7ZcfjCoTzLQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="1"    tip-description="n°2: Scarlet Fever"/>
+		<POI MapID="1442" xpos="-124.795"  ypos="53.5828"   zpos="-424.773"  GUID="nyX8XISN5UacK681cpqSgQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="0"    tip-description="Love Is in the Eir"/>
+		<POI MapID="1438" xpos="-297.87"   ypos="260.775"   zpos="549.75"    GUID="eEjxioAlykO7ZcfjCoTzLQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="1"    tip-description="Scarlet Fever"/>
+		<POI MapID="1452" xpos="48.875"    ypos="173.375"   zpos="652.5"     GUID="+v4yCGgPdUawxpA5q2wEBQ==" type="abaddon.end_of_dragons.arborstone.a_sampling_of_snargle"                      achievementBit="2"    tip-description="Koda's Warmth"/>
 
 		<!-- Albax, the Unlucky -->
 		<POI MapID="1438" xpos="206.375"   ypos="2.625"     zpos="318.375"   GUID="WalGnANhkU6Lv6sjXAaV4w==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="1"    tip-description="Enune"/>
