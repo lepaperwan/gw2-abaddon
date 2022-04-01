@@ -2,6 +2,23 @@
 
 <OverlayData>
 	<POIs>
+		<!-- Seitung Province -->
+		<POI MapID="1442" xpos="-888.625"  ypos="1.375"     zpos="-675.125"  GUID="v7uvXJD+nkeX3M2/ia81Mw==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="-621.375"  ypos="1.375"     zpos="-759.125"  GUID="WDWjOC68e0WYnoJnVdaY6A==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="-520.875"  ypos="1.375"     zpos="-754.875"  GUID="QhLMe0c03ESpirphVl7YOw==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="-424.75"   ypos="1.375"     zpos="-319.875"  GUID="yEo6pw/BP0ezhb8SmCveAg==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="-241.125"  ypos="1.375"     zpos="-662.125"  GUID="rJ2yJz7jxU+H9VBKXw0Vwg==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="-188.625"  ypos="1.375"     zpos="-598.875"  GUID="PaOUHy0G/k2fgLq8gEdoBQ==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="261.25"    ypos="1.375"     zpos="-653.875"  GUID="AcdqPDqJkEa/jWOR7SQIdg==" type="abaddon.fishing.offshore"/>
+		<POI MapID="1442" xpos="-946.125"  ypos="1.375"     zpos="-352.75"   GUID="sgb7dEPd2E+vpzxkVCqPrw==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-866.375"  ypos="1.375"     zpos="-546.875"  GUID="czRz5E/FtUSXXSn/DQnKFA==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-693.625"  ypos="1.375"     zpos="-292.875"  GUID="k2/+nStV40iJtoRnGeTRkw==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-479.125"  ypos="1.375"     zpos="-295.125"  GUID="2Om8pyLgokWBrC8ZML7ZTQ==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-372.625"  ypos="1.375"     zpos="-146.625"  GUID="9JItb5eaiEaEaUQNec1jnA==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-369"      ypos="1.375"     zpos="-257.25"   GUID="Ww097kcy4kuppE/hdrme+g==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-273.375"  ypos="1.375"     zpos="-271.25"   GUID="gpVc80CV0kG5l19kqtBW3A==" type="abaddon.fishing.shore"/>
+		<POI MapID="1442" xpos="-132.75"   ypos="1.375"     zpos="-173.625"  GUID="h365wRrNjU+JiPow5Czeqg==" type="abaddon.fishing.shore"/>
+
 		<!-- New Kaineng City -->
 		<POI MapID="1438" xpos="-1160"     ypos="1.375"     zpos="-77.75"    GUID="aNjwathNOEWLVz22MMUboA==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-1107.875" ypos="1.37639"   zpos="-300"      GUID="2FAxSELiaUa4U7lGb8IyKw==" type="abaddon.fishing.coastal"/>

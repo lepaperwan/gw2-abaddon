@@ -4192,6 +4192,8 @@
 		<MarkerCategory name="fishing"																					DisplayName="Fishing"																			minSize="16"	maxSize="32"	mapDisplaySize="30"	iconFile="Img/2565fbc962f920a59d0502d25034be0d.png"><!-- TODO: Icon -->
 			<MarkerCategory name="channel"																				DisplayName="Channel Fish"/>
 			<MarkerCategory name="coastal"																				DisplayName="Coastal Fish"/>
+			<MarkerCategory name="offshore"																				DisplayName="Offshore Fish"/>
+			<MarkerCategory name="shore"																				DisplayName="Shore Fish"/>
 		</MarkerCategory>
 
 		<MarkerCategory name="harvestables"																				DisplayName="Harvestables"																		minSize="16"	maxSize="32"	mapDisplaySize="30">
