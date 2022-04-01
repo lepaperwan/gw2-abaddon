@@ -67,6 +67,9 @@
 		<POI MapID="1442" xpos="-417.284"  ypos="1.15391"   zpos="191.74"    GUID="PeZw7lw1T0+/7wEIJDQmlw==" type="abaddon.end_of_dragons.seitung_province.illuminating_seitung_province"        achievementBit="54"   tip-description="n°55"/>
 		<POI MapID="1442" xpos="-67.6704"  ypos="220.84"    zpos="78.195"    GUID="NXBbHc/SPUakJqzuusmaEw==" type="abaddon.end_of_dragons.seitung_province.illuminating_seitung_province"        achievementBit="55"   tip-description="n°56"/>
 
+		<!-- Misty Leap -->
+		<POI MapID="1442" xpos="167.375"   ypos="56.25"     zpos="-524.625"  GUID="tb4SCHWFv0S8kruiEU3pYQ==" type="abaddon.end_of_dragons.seitung_province.misty_leap"/>
+
 		<!-- Spiritual Childcare -->
 		<POI MapID="1442" xpos="-347.162"  ypos="93.8899"   zpos="-30.4846"  GUID="awWO0gZYp0+dl2txJUTJWg==" type="abaddon.end_of_dragons.seitung_province.spiritual_childcare"                  achievementBit="0"    tip-description="n°1"/>
 		<POI MapID="1442" xpos="-194.593"  ypos="1.6646"    zpos="-246.163"  GUID="rv32s1xrkESj/wrrEELZ2w==" type="abaddon.end_of_dragons.seitung_province.spiritual_childcare"                  achievementBit="1"    tip-description="n°2"/>
