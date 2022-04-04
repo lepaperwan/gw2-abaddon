@@ -15,6 +15,7 @@
 		<POI MapID="1442" xpos="-765"      ypos="96.125"    zpos="748.375"   GUID="snZ9mxiUnUu0gt4dItI4Ww==" type="abaddon.collectibles.jade_tech_chest"/>
 		<POI MapID="1442" xpos="-695.875"  ypos="0.375"     zpos="324"       GUID="xmFaSQicv0OXGqBq0iGL2A==" type="abaddon.collectibles.jade_tech_chest"/>
 		<POI MapID="1442" xpos="-392.375"  ypos="0.875"     zpos="-560.25"   GUID="tUYjbZ2aJ06rDsgtj5426g==" type="abaddon.collectibles.jade_tech_chest"/>
+		<POI MapID="1442" xpos="627.5"     ypos="2.5"       zpos="642.75"    GUID="/IYjimlVm0OFdi65Zwkacg==" type="abaddon.collectibles.jade_tech_chest"/>
 
 		<!-- New Kaineng City -->
 		<POI MapID="1438" xpos="-269"      ypos="-12.5"     zpos="84.75"     GUID="rfTEvlryF0+yLrAZCp0aLQ==" type="abaddon.collectibles.chest"/>
@@ -40,14 +41,15 @@
 		<POI MapID="1452" xpos="-513.75"   ypos="44.875"    zpos="-714.375"  GUID="WsY8XSNuQUichc+Q4d57FA==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1452" xpos="-476.125"  ypos="223.875"   zpos="-686.875"  GUID="BxkGrzIjyEuutbZqff41zw==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1452" xpos="-437.625"  ypos="108"       zpos="-738"      GUID="6KOypV91mEm4qja7foRZBA==" type="abaddon.collectibles.chest"/>
-		<POI MapID="1452" xpos="343.375"   ypos="100"       zpos="156.75"    GUID="7azI41ILykCUqWowLWYr2A==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="347.75"    ypos="100"       zpos="153.5"     GUID="cIcFyOjM7k6RHKu3FzRHDA==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="347.875"   ypos="99.875"    zpos="162.875"   GUID="kHUystDQIES8b5hFeoc4nA==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="350.875"   ypos="100"       zpos="149.5"     GUID="KaO3zpqqAUCsNloISmbv8Q==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="356.5"     ypos="99.875"    zpos="153"       GUID="utNqOK9urE6wizka5ASV4A==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="400.375"   ypos="100"       zpos="237.375"   GUID="ttIlQJ44LkGSNe0Xp7jL6A==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="425"       ypos="100"       zpos="173.375"   GUID="lbhPLTJmDk2Bc6lF4k+5Ww==" type="abaddon.collectibles.chest_permanent"   description="Filing Cabinet"/>
-		<POI MapID="1452" xpos="478"       ypos="198"       zpos="-330.5"    GUID="zLz0hQLMhUSE+yrjrJaa2Q==" type="abaddon.collectibles.chest_permanent"	description="Grand Chest"/>
+		<POI MapID="1452" xpos="820.125"   ypos="-12"       zpos="-647.125"  GUID="3E5R5f3PPEStTOjO8rJYuQ==" type="abaddon.collectibles.chest"/>
+		<POI MapID="1452" xpos="343.375"   ypos="100"       zpos="156.75"    GUID="7azI41ILykCUqWowLWYr2A==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="347.75"    ypos="100"       zpos="153.5"     GUID="cIcFyOjM7k6RHKu3FzRHDA==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="347.875"   ypos="99.875"    zpos="162.875"   GUID="kHUystDQIES8b5hFeoc4nA==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="350.875"   ypos="100"       zpos="149.5"     GUID="KaO3zpqqAUCsNloISmbv8Q==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="356.5"     ypos="99.875"    zpos="153"       GUID="utNqOK9urE6wizka5ASV4A==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="400.375"   ypos="100"       zpos="237.375"   GUID="ttIlQJ44LkGSNe0Xp7jL6A==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="425"       ypos="100"       zpos="173.375"   GUID="lbhPLTJmDk2Bc6lF4k+5Ww==" type="abaddon.collectibles.chest_permanent"    description="Filing Cabinet"/>
+		<POI MapID="1452" xpos="478"       ypos="198"       zpos="-330.5"    GUID="zLz0hQLMhUSE+yrjrJaa2Q==" type="abaddon.collectibles.chest_permanent"    description="Grand Chest"/>
 		<POI MapID="1452" xpos="1062"      ypos="178.25"    zpos="31.625"    GUID="aCIJYcFjV0m7vubyWeY2fg==" type="abaddon.collectibles.chest_permanent"/>
 		<POI MapID="1452" xpos="1062.625"  ypos="28.125"    zpos="-87.25"    GUID="+sUjM/82AkyZNnrMH7NSUg==" type="abaddon.collectibles.chest_permanent"/>
 		<POI MapID="1452" xpos="-880.25"   ypos="222.25"    zpos="-444.5"    GUID="bHvDgTonFE+Pzi7Ly4xh8Q==" type="abaddon.collectibles.jade_tech_chest"/>
