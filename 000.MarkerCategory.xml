@@ -4190,10 +4190,24 @@
 		</MarkerCategory>
 
 		<MarkerCategory name="fishing"																					DisplayName="Fishing"																			minSize="16"	maxSize="32"	mapDisplaySize="30"	iconFile="Img/2565fbc962f920a59d0502d25034be0d.png"><!-- TODO: Icon -->
+			<MarkerCategory name="boreal"																				DisplayName="Boreal Fish"/>
+			<MarkerCategory name="cavern"																				DisplayName="Cavern Fish"/>
 			<MarkerCategory name="channel"																				DisplayName="Channel Fish"/>
 			<MarkerCategory name="coastal"																				DisplayName="Coastal Fish"/>
+			<MarkerCategory name="deep_hole"																			DisplayName="Deep Fishing Hole"/>
+			<MarkerCategory name="desert"																				DisplayName="Desert Fish"/>
+			<MarkerCategory name="freshwater"																			DisplayName="Freshwater Fish"/>
+			<MarkerCategory name="grotto"																				DisplayName="Grotto Fish"/>
+			<MarkerCategory name="lake"																					DisplayName="Lake Fish"/>
+			<MarkerCategory name="noxious_water"																		DisplayName="Noxious Water Fish"/>
 			<MarkerCategory name="offshore"																				DisplayName="Offshore Fish"/>
+			<MarkerCategory name="polluted_lake"																		DisplayName="Polluted Lake Fish"/>
+			<MarkerCategory name="quarry"																				DisplayName="Quarry Fish"/>
+			<MarkerCategory name="rare"																					DisplayName="Rare Fish"/>
+			<MarkerCategory name="river"																				DisplayName="River Fish"/>
+			<MarkerCategory name="saltwater"																			DisplayName="Saltwater Fish"/>
 			<MarkerCategory name="shore"																				DisplayName="Shore Fish"/>
+			<MarkerCategory name="volcanic"																				DisplayName="Volcanic Fish"/>
 		</MarkerCategory>
 
 		<MarkerCategory name="harvestables"																				DisplayName="Harvestables"																		minSize="16"	maxSize="32"	mapDisplaySize="30">

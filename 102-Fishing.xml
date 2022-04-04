@@ -2,6 +2,9 @@
 
 <OverlayData>
 	<POIs>
+		<!-- Straits of Devastation -->
+		<POI MapID="51"   xpos="381"       ypos="1.375"     zpos="519.5"     GUID="TlgRvlKpG0OXZaIyPaWi2w==" type="abaddon.fishing.shore"/>
+
 		<!-- Seitung Province -->
 		<POI MapID="1442" xpos="-888.625"  ypos="1.375"     zpos="-675.125"  GUID="v7uvXJD+nkeX3M2/ia81Mw==" type="abaddon.fishing.offshore"/>
 		<POI MapID="1442" xpos="-621.375"  ypos="1.375"     zpos="-759.125"  GUID="WDWjOC68e0WYnoJnVdaY6A==" type="abaddon.fishing.offshore"/>
@@ -31,11 +34,14 @@
 		<POI MapID="1438" xpos="-983.625"  ypos="1.375"     zpos="83.75"     GUID="2XGN763LlU6KTdrXCgFDqQ==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-973"      ypos="1.375"     zpos="172.375"   GUID="NRkz6dcFg0alpTOcZyL/KQ==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-940.25"   ypos="1.375"     zpos="580.375"   GUID="OPOSY8sPcUeCU1rkLlXBbA==" type="abaddon.fishing.coastal"/>
+		<POI MapID="1438" xpos="-939.875"  ypos="1.375"     zpos="370.75"    GUID="t0itEAr00EaRpZ6DJ6UXCQ==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-930"      ypos="1.375"     zpos="258.75"    GUID="GZsEZlkmMkm/a3Ji3tVIRw==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-928.375"  ypos="1.375"     zpos="-80.375"   GUID="18+3EnrXbkGao6hpK1or1w==" type="abaddon.fishing.coastal"/>
+		<POI MapID="1438" xpos="-927.375"  ypos="1.375"     zpos="96.875"    GUID="WyT0EfQ9mkyNfhfPbB0/dg==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-925"      ypos="1.375"     zpos="-249"      GUID="vwpJ94x8mkiy5kWtFwlu7g==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-886.75"   ypos="1.375"     zpos="114.875"   GUID="FKyQozcWqUWK+uzBFfch2g==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-876.75"   ypos="1.375"     zpos="-267"      GUID="utXwZisEJUWmUSQNYcxGHw==" type="abaddon.fishing.coastal"/>
+		<POI MapID="1438" xpos="-858.75"   ypos="1.375"     zpos="296"       GUID="LDObt/syQUqDfzm0FVg1BQ==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-825.75"   ypos="1.375"     zpos="-215.875"  GUID="ADeC5afUJkK5kCM0PH1kYg==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-814.375"  ypos="1.375"     zpos="209.625"   GUID="Us5rvufYT0OMqSv/sMT9Ug==" type="abaddon.fishing.coastal"/>
 		<POI MapID="1438" xpos="-762.875"  ypos="1.375"     zpos="-350.5"    GUID="WRmzegI700aP/2bJCTcb1A==" type="abaddon.fishing.coastal"/>
@@ -49,6 +55,8 @@
 		<POI MapID="1438" xpos="-387.125"  ypos="1.375"     zpos="200.125"   GUID="Tq1G2pVTc0mLE61tOG7MZQ==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="-347"      ypos="1.375"     zpos="-27.125"   GUID="Hppos5+yQk6yfQkm+4fvsw==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="-330.75"   ypos="1.375"     zpos="198.875"   GUID="xLcn5Nb00UKpmXcKnyKgHw==" type="abaddon.fishing.channel"/>
+		<POI MapID="1438" xpos="-318.875"  ypos="1.375"     zpos="-65.375"   GUID="yg6eqUQtWUitcYF60HEe6Q==" type="abaddon.fishing.channel"/>
+		<POI MapID="1438" xpos="-283.875"  ypos="1.375"     zpos="-42.5"     GUID="LsUQkbEDE0iB4xGbiOLTTA==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="-272.5"    ypos="1.375"     zpos="-282.125"  GUID="VsT/zGC25EuMzuJxG2Wm8Q==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="-206.25"   ypos="1.375"     zpos="211.375"   GUID="uZRLeeArc02R7iHCQsMOUg==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="-188.625"  ypos="1.375"     zpos="262.875"   GUID="KZiFxP1NDEGnlM7CmhxCJw==" type="abaddon.fishing.channel"/>
@@ -58,6 +66,7 @@
 		<POI MapID="1438" xpos="189.75"    ypos="1.375"     zpos="-310"      GUID="hQZzGt9AckuKqsQpbB6h6Q==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="256.5"     ypos="1.375"     zpos="43.75"     GUID="SftwdMeQfEijeqvIqml3LQ==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="425.125"   ypos="1.375"     zpos="601.75"    GUID="vZ7d/Cq1r0y/zinFPLNXoA==" type="abaddon.fishing.channel"/>
+		<POI MapID="1438" xpos="471.25"    ypos="1.375"     zpos="629"       GUID="gx77b1eItEu8rzQVnhwIKg==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="505.125"   ypos="1.375"     zpos="387.625"   GUID="UcWYvxTAOUeQs2+HwT67ug==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="508.5"     ypos="2.625"     zpos="291.25"    GUID="YlBTTBxhi0a6Rh8gpR8AfA==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="536.125"   ypos="1.375"     zpos="-30.25"    GUID="uIrqq+8J+0eHDH3VDvsqHQ==" type="abaddon.fishing.channel"/>
@@ -77,6 +86,19 @@
 		<POI MapID="1438" xpos="1002.75"   ypos="1.375"     zpos="316.375"   GUID="kAnXjwiJ6EKmAfzZnrGCVg==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="1008.875"  ypos="1.375"     zpos="503.125"   GUID="i0GdSfeNxkmm76ADWQmtgw==" type="abaddon.fishing.channel"/>
 		<POI MapID="1438" xpos="1010.5"    ypos="1.375"     zpos="232.375"   GUID="cqVL7K+Y8UmnDsP5A+HSWQ==" type="abaddon.fishing.channel"/>
+
+		<!-- Echovald Wilds -->
+		<POI MapID="1452" xpos="649.125"   ypos="1.375"     zpos="-428.75"   GUID="3767ViSMbkKeeaTTbu422A==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="738.25"    ypos="1.375"     zpos="-389.125"  GUID="eMqd88OPw0C/v6R2SJCQ5A==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="771.875"   ypos="1.375"     zpos="-573"      GUID="sY/GOiqIC0mtquee/UUnmg==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="799.875"   ypos="1.375"     zpos="-481"      GUID="TZ87HpLoS0mJ0Z3JKb7qGQ==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="810"       ypos="1.375"     zpos="-685.25"   GUID="QF4+o7ZnlUOTaXLrGzav6A==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="961.625"   ypos="1.375"     zpos="-588"      GUID="6M4f/C0YB0Cdee/GzqxnCA==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="970.5"     ypos="1.375"     zpos="-658.75"   GUID="Joz4EEzB2Um6cL2FaTmDzQ==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="986.75"    ypos="1.375"     zpos="-634.375"  GUID="KfioI53ps0a9414JiE1Weg==" type="abaddon.fishing.lake"/>
+
+		<!-- Arborstone -->
+		<POI MapID="1428" xpos="-1039.75"  ypos="1.375"     zpos="670.5"     GUID="ZxWxO3UsLUyW/Ui59S3YOg==" type="abaddon.fishing.deep_hole"/>
 	</POIs>
 </OverlayData>
 
