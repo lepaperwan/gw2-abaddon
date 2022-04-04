@@ -1,0 +1,10 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
+<OverlayData>
+	<POIs>
+		<!-- Turtle Unlock: Suiting Up -->
+		<POI MapID="1452" xpos="-71.5"     ypos="118.125"   zpos="-674"      GUID="6+nwkuYPz0aR+KcBCHxgVw==" type="abaddon.end_of_dragons.cantha.turtle_unlock__suiting_up"                      achievementBit="4"    tip-description="Alleola Oil"/>
+	</POIs>
+</OverlayData>
+
+<!-- vim: set fileencoding=utf-8 filetype=xml autoindent noexpandtab shiftwidth=4 softtabstop=4 tabstop=4 nowrap: -->
