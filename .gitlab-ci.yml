@@ -1,0 +1,23 @@
+image: alpine:latest
+
+before_script:
+- apk update
+- apk add --no-cache libxml2-utils zip
+
+test:
+  stage: test
+  script:
+  - |
+    for i in *.xml; do
+      xmllint --output "${i}" --noblanks --encode "utf-8" "${i}" || exit ${?}
+    done
+
+build:
+  artifacts:
+    paths:
+    - Abaddon.taco
+  stage: build
+  script:
+  - zip -r -9 Abaddon.taco *.xml Img
+
+# vim: fileencoding=utf-8 filetype=yaml autoindent expandtab shiftwidth=2 softtabstop=2 tabstop=2 nowrap
