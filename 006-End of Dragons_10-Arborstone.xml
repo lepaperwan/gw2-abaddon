@@ -11,6 +11,7 @@
 		<!-- Albax, the Unlucky -->
 		<POI MapID="1438" xpos="206.375"   ypos="2.625"     zpos="318.375"   GUID="WalGnANhkU6Lv6sjXAaV4w==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="1"    tip-description="Enune"/>
 		<POI MapID="29"   xpos="-75.2007"  ypos="45.015"    zpos="279.37"    GUID="/0qQdSE9j06Odwmk4BszNA==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="6"    tip-description="Worn Plush Doll"/>
+		<POI MapID="1422" xpos="-245.625"  ypos="-175"      zpos="330.625"   GUID="fI0q6OzX+kW5InzhssQvvA==" type="abaddon.end_of_dragons.arborstone.albax__the_unlucky"                         achievementBit="7"    tip-description="Lucky Golden Relic — only during &quot;Dive for machine parts and return them to the quarry salvager&quot;"/>
 
 		<!-- Building a Better Bot -->
 		<POI MapID="1428" xpos="-766.966"  ypos="94.8294"   zpos="648.422"   GUID="fSTGIGmSsUOP2D1CpTH9ow==" type="abaddon.end_of_dragons.arborstone.building_a_better_bot"                      achievementBit="0"    tip-description="n°1"/>
