@@ -6,6 +6,7 @@
 		<POI MapID="1442" xpos="168.5"     ypos="54.875"    zpos="-514.625"  GUID="1UCiC9FmAEKZpFGBvsPpuw==" type="abaddon.end_of_dragons.mastery_insights.seitung_province_insight__zen_daijun_temple"/>
 
 		<!-- New Kaineng City -->
+		<POI MapID="1438" xpos="976.25"    ypos="68.375"    zpos="-311.625"  GUID="5PI0/pcGGUK9lIdsjw88cA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__petrified_shipping_docks"		heightOffset="3.125"/>
 		<POI MapID="1438" xpos="559.625"   ypos="81.125"    zpos="-212.875"  GUID="+Z7GgJSGu0ut+ECTgQcrYA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__lutgardis_plaza_rooftop_garden"/>
 		<POI MapID="1438" xpos="641"       ypos="92.125"    zpos="-398.875"  GUID="DXTFqa1NZUemn6xTabB3QA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__salvage_yard"/>
 	</POIs>

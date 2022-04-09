@@ -18,6 +18,7 @@
 		<POI MapID="1428" xpos="-713.388"  ypos="94.8637"   zpos="609.826"   GUID="TCrehqfsPk2PcSsU69/NvQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="0"    tip-description="Snargle Goldclaw"/>
 		<POI MapID="1452" xpos="1038.125"  ypos="0.5"       zpos="-625.75"   GUID="E68uzRVYbkOxwSK9oBAacA==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="1"    tip-description="Mamoru"/>
 		<POI MapID="1442" xpos="-167.25"   ypos="16.875"    zpos="-245.375"  GUID="NTSLgrZIVUaAMOrkK+2pug==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="2"    tip-description="Help find and return the lost toys to the children"/>
+		<POI MapID="1438" xpos="-621.125"  ypos="199.375"   zpos="-316.75"   GUID="I3DYilWJX0yAqEvM+LyYUQ==" type="abaddon.end_of_dragons.arborstone.character_growth"                           achievementBit="3"    tip-description="Lady Kanda"/>
 
 		<!-- Golem Behavior Analysis -->
 		<POI MapID="35"   xpos="-292.375"  ypos="18.5"      zpos="692.5"     GUID="1LO69pRQ0k6mOE1MmX/Xpg==" type="abaddon.end_of_dragons.arborstone.golem_behavior_analysis"                    achievementBit="0"/>
@@ -36,7 +37,12 @@
 		<POI MapID="1438" xpos="927.04"    ypos="166.508"   zpos="372.42"    GUID="6Lws3FL7Tk+WeISoFtN13g==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="2"    tip-description="n°3: Purist Document Fragment"/>
 		<POI MapID="1438" xpos="1031.08"   ypos="2.62779"   zpos="624.579"   GUID="dNf+LvoqJU6c+5uWfOlRDw==" type="abaddon.end_of_dragons.arborstone.pure_enmity"                                achievementBit="3"    tip-description="n°4: Purist Document Fragment"/>
 
+		<!-- The End of the Celestial Ministry -->
+		<POI MapID="1438" xpos="-199.875"  ypos="3.5"       zpos="-393.875"  GUID="FanQeXNi8E6Y1U1bq+LHyw==" type="abaddon.end_of_dragons.arborstone.the_end_of_the_celestial_ministry"          achievementBit="1"    tip-description="Xiaobo"/>
+		<POI MapID="1438" xpos="834.625"   ypos="9.875"     zpos="-344.75"   GUID="K8FxUT87nUuu8eKy6KdzXg==" type="abaddon.end_of_dragons.arborstone.the_end_of_the_celestial_ministry"          achievementBit="7"    tip-description="Suyin"/>
+
 		<!-- Tracing the Tapestry -->
+		<POI MapID="50"   xpos="-284.75"   ypos="46.5"      zpos="196.625"   GUID="cWP21m84ok2DoRx5tpGFbg==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="0"    tip-description="Captain Hao Luen"/>
 		<POI MapID="1442" xpos="781.75"    ypos="1.375"     zpos="-686.625"  GUID="ZnikMJxSnEmg62sATYnXwA==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="3"    tip-description="Wreckage Site"/>
 		<POI MapID="1438" xpos="467.25"    ypos="20.9573"   zpos="15.8182"   GUID="OdUNZTbByEmqznhaHkrOeA==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="5"    tip-description="Officer Suni"/>
 		<POI MapID="1452" xpos="370.5"     ypos="100"       zpos="236"       GUID="WKoN8xsUP0qW5n8IuGjpDA==" type="abaddon.end_of_dragons.arborstone.tracing_the_tapestry"                       achievementBit="6"    tip-description="Pile of Clothes"/>

@@ -6,7 +6,11 @@
 		<POI MapID="1442" xpos="-968.021"  ypos="133.174"   zpos="-74.1569"  GUID="MOvEZQsE00KR+HqmfC5KLw==" type="abaddon.end_of_dragons.seitung_province.authorial_intent"/>
 
 		<!-- Bian's World Tour -->
+		<POI MapID="91"   xpos="60.5"      ypos="52.5"      zpos="-64.75"    GUID="3G0I5WL0X0i4cQkhTjP/3A==" type="abaddon.end_of_dragons.seitung_province.bian_s_world_tour"                    achievementBit="1"/>
+		<POI MapID="218"  xpos="-24.25"    ypos="102"       zpos="-53.5"     GUID="shntSPDulkebeDtjGfKS9w==" type="abaddon.end_of_dragons.seitung_province.bian_s_world_tour"                    achievementBit="2"/>
 		<POI MapID="139"  xpos="-24.7187"  ypos="363.567"   zpos="281.259"   GUID="UNymQ1/u/0eyib07AqH+rQ==" type="abaddon.end_of_dragons.seitung_province.bian_s_world_tour"                    achievementBit="3"/>
+		<POI MapID="18"   xpos="-20.875"   ypos="123.25"    zpos="114.25"    GUID="0WU7mXGPQkK9s9DF5AgkZQ==" type="abaddon.end_of_dragons.seitung_province.bian_s_world_tour"                    achievementBit="4"/>
+		<POI MapID="50"   xpos="-164.75"   ypos="20.25"     zpos="20"        GUID="g7xRZMoxPkSJJYGaV1RWEw==" type="abaddon.end_of_dragons.seitung_province.bian_s_world_tour"                    achievementBit="5"/>
 		<POI MapID="326"  xpos="184.468"   ypos="233.034"   zpos="80.4596"   GUID="QB0Dwa3p8UiIHfGl65QP2Q==" type="abaddon.end_of_dragons.seitung_province.bian_s_world_tour"                    achievementBit="6"/>
 
 		<!-- Illuminating Seitung Province -->

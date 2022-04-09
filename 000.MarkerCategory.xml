@@ -2138,7 +2138,7 @@
 				<MarkerCategory name="arborstone_vaulter_extraordinaire"												DisplayName="Arborstone Vaulter Extraordinaire"													achievementId="6121"/>
 				<MarkerCategory name="brothers_in_harms"																DisplayName="Brothers in Harms"																	achievementId="6319"/>
 				<MarkerCategory name="building_a_better_bot"															DisplayName="Building a Better Bot"																achievementId="6399"/>
-				<MarkerCategory name="character_growth"																	DisplayName="Character Growth"																	achievementId="6333"/>
+				<MarkerCategory name="character_growth"																	DisplayName="Character Growth"																	achievementId="6333"	heightOffset="3"/>
 				<MarkerCategory name="fan_of_the_band"																	DisplayName="Fan of the Band"																	achievementId="6414"/>
 				<MarkerCategory name="golem_behavior_analysis"															DisplayName="Golem Behavior Analysis"															achievementId="6112"/>
 				<MarkerCategory name="hide_and_seek_in_arborstone"														DisplayName="Hide-and-Seek in Arborstone"														achievementId="6397"/>
@@ -2147,7 +2147,7 @@
 				<MarkerCategory name="lucky_guess"																		DisplayName="Lucky Guess"																		achievementId="6359"/>
 				<MarkerCategory name="mech_behavior_analysis"															DisplayName="Mech Behavior Analysis"															achievementId="6490"/>
 				<MarkerCategory name="pure_enmity"																		DisplayName="Pure Enmity"																		achievementId="6290"/>
-				<MarkerCategory name="the_end_of_the_celestial_ministry"												DisplayName="The End of the Celestial Ministry"													achievementId="6381"/>
+				<MarkerCategory name="the_end_of_the_celestial_ministry"												DisplayName="The End of the Celestial Ministry"													achievementId="6381"	heightOffset="3"/>
 				<MarkerCategory name="the_fate_of_house_zu_heltzer"														DisplayName="The Fate of House zu Heltzer"														achievementId="6448"/>
 				<MarkerCategory name="tracing_the_tapestry"																DisplayName="Tracing the Tapestry"																achievementId="6074"/>
 				<MarkerCategory name="winn_s_favorite_patron"															DisplayName="Winn's Favorite Patron"															achievementId="6270"/>
@@ -4173,11 +4173,15 @@
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
-			<MarkerCategory name="tactical"																				DisplayName="Tactical"																			minSize="48"	maxSize="64"	mapDisplaySize="12"	fadeNear="1500"	fadeFar="10000"	heightOffset="0.75"	mapVisibility="0"	miniMapVisibility="0">
+			<MarkerCategory name="tactical"																				DisplayName="Tactical"																			minSize="48"	maxSize="64"	mapDisplaySize="12">
 				<MarkerCategory name="end_of_dragons"																	DisplayName="End of Dragons">
-					<MarkerCategory name="jade_power"																	DisplayName="Jade Power"																								iconFile="Img/Assistances/Thunder.png">
+					<MarkerCategory name="jade_power"																	DisplayName="Jade Power"																								iconFile="Img/Textures/UI Textures/128x128/2604557.png"	fadeNear="1500"	fadeFar="10000"	heightOffset="2"	mapVisibility="0"	miniMapVisibility="0">
 						<MarkerCategory name="charging_station"															DisplayName="Charging Stations"/>
 						<MarkerCategory name="jade_battery"																DisplayName="Jade Batteries"/>
+					</MarkerCategory>
+					<MarkerCategory name="jade_tech_protocols"															DisplayName="Jade Tech Protocols"																minSize="32"	maxSize="48"	mapDisplaySize="16">
+						<MarkerCategory name="defensive"																DisplayName="Jade Tech Defensive Protocol"																				iconFile="Img/Textures/UI Textures/128x128/2604567.png"/>
+						<MarkerCategory name="offensive"																DisplayName="Jade Tech Offensive Protocol"																				iconFile="Img/Textures/UI Textures/128x128/2604568.png"/>
 					</MarkerCategory>
 				</MarkerCategory>
 			</MarkerCategory>
@@ -4210,7 +4214,7 @@
 			<MarkerCategory name="volcanic"																				DisplayName="Volcanic Fish"/>
 		</MarkerCategory>
 
-		<MarkerCategory name="harvestables"																				DisplayName="Harvestables"																		minSize="16"	maxSize="32"	mapDisplaySize="30">
+		<MarkerCategory name="harvestables"																				DisplayName="Harvestables"																		minSize="16"	maxSize="32"	mapDisplaySize="30"	behavior="6"	triggerRange="5">
 			<MarkerCategory name="lumber"																				DisplayName="Lumber"																									iconFile="Img/Harvestables/Wood.png"><!-- TODO: Icons -->
 				<MarkerCategory name="petrified_echovald_sapling"														DisplayName="Petrified Echovald Sapling"/>
 				<MarkerCategory name="lumber_synthesizer"																DisplayName="Lumber Synthesizer"/>
@@ -4223,10 +4227,13 @@
 				<MarkerCategory name="carrots"																			DisplayName="Carrots"																									iconFile="Img/Harvestables/Plant/Carrots.png"/>
 				<MarkerCategory name="flax"																				DisplayName="Flax"																										iconFile="Img/Harvestables/Plant/Flax.png"/>
 				<MarkerCategory name="herbseedlings"																	DisplayName="Herb Seedlings"/>
+				<MarkerCategory name="herbsprouts"																		DisplayName="Herb Sprouts"/>
 				<MarkerCategory name="potato"																			DisplayName="Potato"																									iconFile="Img/Harvestables/Plant/Potato.png"/>
+				<MarkerCategory name="root_vegetables"																	DisplayName="Root Vegetables"/>
 				<MarkerCategory name="soybeans"																			DisplayName="Soybeans"/>
 				<MarkerCategory name="spinach"																			DisplayName="Spinach"																									iconFile="Img/Harvestables/Plant/Spinach.png"/>
 				<MarkerCategory name="sugarpumpkin"																		DisplayName="Sugar Pumpin"																								iconFile="Img/Harvestables/Plant/SugarPumpkin.png"/>
+				<MarkerCategory name="young_herbs"																		DisplayName="Young Herbs"/>
 				<MarkerCategory name="zucchini"																			DisplayName="Zucchini"/>
 				<MarkerCategory name="berry_synthesizer"																DisplayName="Berry Synthesizer"/>
 				<MarkerCategory name="herb_synthesizer"																	DisplayName="Herb Synthesizer"/>
