@@ -23,8 +23,8 @@
 		<POI MapID="1442" xpos="971.625"   ypos="50.875"    zpos="149.5"     GUID="cbkcaAdYPUSOXD0tTkSLXw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-898.375"  ypos="0.25"      zpos="-643.75"   GUID="O6rRN8rLvkeGI0gxvo+5xA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-890.25"   ypos="4.5"       zpos="-582.75"   GUID="+wfjUDNIhEG0jouKYuwV5w==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
-		<POI MapID="1438" xpos="-859.125"  ypos="3"         zpos="54.375"    GUID="3j//mRwWIkiVPIpiPgmYuw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-859.375"  ypos="2.625"     zpos="-49.625"   GUID="rl/Mg7WbtUWfpdq2a8f2Fg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1438" xpos="-859.125"  ypos="3"         zpos="54.375"    GUID="3j//mRwWIkiVPIpiPgmYuw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-824.875"  ypos="1.125"     zpos="-706.75"   GUID="K5YnvDv+NkKXMFGWrYeYvw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-802.25"   ypos="2.625"     zpos="27.25"     GUID="qV4j0ef1rkelaaT+iylKUQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="-791.375"  ypos="2.625"     zpos="-67.25"    GUID="ffnOsVwIr0iKQy/lQNAFqw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
@@ -91,6 +91,7 @@
 		<POI MapID="1438" xpos="419.125"   ypos="70.625"    zpos="666"       GUID="QK4uUkRGKUygyvPARANrAA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="432.125"   ypos="2.625"     zpos="-431.125"  GUID="U3k4Rl08MU6WhmlnzyQgmQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="436"       ypos="36.5"      zpos="-232.125"  GUID="rW3dRT5p5E+9rnPFcqUezw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1438" xpos="485"       ypos="2.625"     zpos="45.75"     GUID="N5dGRU8FB0qzK6tzopCoEg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 		<POI MapID="1438" xpos="508.625"   ypos="2.625"     zpos="291.25"    GUID="eiJDIHKSLkWac07cyrR78A==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="516.125"   ypos="23.625"    zpos="599.5"     GUID="TSPpiv3O90aH8mnnxYBXPQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="530.875"   ypos="2.625"     zpos="-591.25"   GUID="GL53D+gTEEitUS5TWBwjiQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
@@ -101,8 +102,11 @@
 		<POI MapID="1438" xpos="587.25"    ypos="2.625"     zpos="-451.375"  GUID="BN119LWNiECgCmMVR8MlhA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="592.875"   ypos="2.875"     zpos="-214"      GUID="+nfwn5BUD0WLe0TWupwVAw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="669.875"   ypos="2.5"       zpos="-154.75"   GUID="ERtzAxzgoEWiin3Yy203CA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1438" xpos="689"       ypos="53.375"    zpos="-685.125"  GUID="RNOr8fW0OUeeOLgaAKIb1g==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 		<POI MapID="1438" xpos="729.875"   ypos="63.5"      zpos="-158.5"    GUID="jhDN856HPka4I88GH78YeA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="730.75"    ypos="2.625"     zpos="-251.75"   GUID="tIEKSJ+dp0ymdG8B2tJVGg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1438" xpos="742.25"    ypos="53.125"    zpos="-652.5"    GUID="9D+kEPOZ5UWK6ErYuNOJ1g==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1438" xpos="753.75"    ypos="93.375"    zpos="648.625"   GUID="melo75z860e+widwyN645w==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 		<POI MapID="1438" xpos="840"       ypos="9.875"     zpos="-341.75"   GUID="3GPIhBsZYE2lc+6Dt/nSBg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="842.5"     ypos="91.5"      zpos="-242.625"  GUID="SPjZtH+Yq0OYAesnOpkrxA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="874.875"   ypos="32.625"    zpos="-275.75"   GUID="dz62Mo9uoEWlFTZX5OwlYw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
@@ -126,6 +130,9 @@
 		<POI MapID="1438" xpos="1039"      ypos="26.875"    zpos="-310.125"  GUID="WUkW7otGJUuS0kG6aS25gg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 		<POI MapID="1438" xpos="1048.75"   ypos="74.125"    zpos="-113.5"    GUID="BGrA5mv/IEuAj4lRod7s3w==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1438" xpos="1052.875"  ypos="40.5"      zpos="-685.75"   GUID="1pM99G48lk+zizWnaDXmtg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="-635.875"  ypos="159"       zpos="330.625"   GUID="FWsbjqORZEqUla/u9KjHZQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="-613.75"   ypos="178.5"     zpos="365.5"     GUID="h3mqMAwYNUC/TVY71R/B0g==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="-574.125"  ypos="163.125"   zpos="599.375"   GUID="Au1xJWvqiEGRm11Fv6c34w==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 		<POI MapID="1452" xpos="-494.5"    ypos="129.25"    zpos="14.375"    GUID="alALv/1YAE6s/WKUUBGqYA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1452" xpos="-478.5"    ypos="125.625"   zpos="-2.25"     GUID="cUaQz7ksfUazQXB98ve4zg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1452" xpos="-431.375"  ypos="117"       zpos="-56.25"    GUID="kgwLYFkju0qdW49i2E+sFQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
@@ -139,7 +146,67 @@
 		<POI MapID="1452" xpos="64.5"      ypos="173.125"   zpos="485.25"    GUID="EMnePZYjm06TlwsDyS2pQw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1452" xpos="152"       ypos="212.125"   zpos="418.125"   GUID="OE2ClmvSXE2NtXWCe0TM3Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
 		<POI MapID="1452" xpos="179.625"   ypos="200.375"   zpos="628.25"    GUID="eiF4NnOnkUiCEJt0jrqxNg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="763.23"    ypos="37.26"     zpos="645.66"    GUID="VmZsfbM9p0G3pPq1xhWBrQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="912.77"    ypos="19.02"     zpos="596.34"    GUID="ROGT1FPyKkSR+fki0GCUSQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="934.81"    ypos="103.78"    zpos="35.35"     GUID="MBMGtPuyJECARnxP0T20iw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="957.54"    ypos="68.87"     zpos="500.54"    GUID="CUXNdLk/Cke9Uc0ViuxCMA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="968.78"    ypos="115.92"    zpos="141.76"    GUID="IAcw/JPCzUOlwFx/0/ic+A==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="1011.61"   ypos="15.87"     zpos="510.43"    GUID="rOBM3b6Cz0m1yvaJL94JXQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="1045.22"   ypos="35.24"     zpos="256.24"    GUID="AHnDYhJkFk67HBcsvJ7gIw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 		<POI MapID="1452" xpos="1046.5"    ypos="40.75"     zpos="-632.375"  GUID="IipkyBYbLkelNQK/p3u7Xg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/>
+		<POI MapID="1452" xpos="1078.17"   ypos="23.06"     zpos="360.46"    GUID="BqG8l46jYk2mygFD4HNckw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1452" xpos="1103.35"   ypos="91.57"     zpos="43.7"      GUID="8r4NRnHIaEWwLds3OnXu+g==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-521.2"    ypos="159.19"    zpos="365.36"    GUID="IzW6oAUksESfB8dCnOcy/w==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-463.13"   ypos="229.05"    zpos="1034.81"   GUID="kIUk34GDLU6WmK99sNNkjw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-462.74"   ypos="158.32"    zpos="735.03"    GUID="ztWYoS4WbEKgvF+zC1VvMw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-430.94"   ypos="125.25"    zpos="246.84"    GUID="huMv4y/MD0KNth8FQDBejw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-412.0"    ypos="129.94"    zpos="167.88"    GUID="Qa6nuDWLs0CmcBrZBW5fkw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-408.34"   ypos="152.04"    zpos="120.75"    GUID="e5XO4tI95kyWc6Nnk7LEuQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-404.25"   ypos="215.08"    zpos="812.19"    GUID="f0yobGCltUqfswnjj+Ociw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-383.27"   ypos="216.21"    zpos="916.37"    GUID="uqh/+lR/NkKYDU/WtZslZA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-370.9"    ypos="148.19"    zpos="123.53"    GUID="97fwsCjpY022F/qXKIT9eA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-369.14"   ypos="155.89"    zpos="634.44"    GUID="tiur4kF6GkKmF6M8gsohrg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-364.91"   ypos="102.41"    zpos="259.66"    GUID="yvEuI88zQUygCaiAP1eklQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-360.95"   ypos="115.05"    zpos="473.07"    GUID="yfwmcqYwdUm+v696O/epkw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-352.57"   ypos="219.68"    zpos="995.13"    GUID="gVfFOmkdk0Kp4J2DSEmuRA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-339.86"   ypos="148.57"    zpos="-59.05"    GUID="d4RmIlImk0uRItIdihkhcA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-317.72"   ypos="144.14"    zpos="744.73"    GUID="gQozBMR4uEaJ+2OcpXZ8QA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-313.38"   ypos="121.97"    zpos="667.86"    GUID="85RGrbmFvEys0AtSIBZoxw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-312.82"   ypos="130.02"    zpos="132.61"    GUID="jnXfN8wJrEGQ/SQZH9w9sw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-294.29"   ypos="132.81"    zpos="356.69"    GUID="/CxyX+Xd20yzTqQi+OwHcQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-266.29"   ypos="107.61"    zpos="723.67"    GUID="2ifv7BkSQUm0/XwA3j48nA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-247.29"   ypos="120.39"    zpos="186.52"    GUID="ln0UwftUs06rNo7+uYm9PA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-240.08"   ypos="114.6"     zpos="215.28"    GUID="xyZ7Eks/K0WwaVYXnnFOfw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-215.375"  ypos="160.375"   zpos="794.125"   GUID="oGfcSuQ9e0upxqvSi1Ruuw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-210.77"   ypos="85.13"     zpos="225.03"    GUID="67VqZdr+90yATu/XZ+Kfuw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-206.69"   ypos="180.44"    zpos="888.49"    GUID="fkr29aRNm0iY99cgJ48XoQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-174.66"   ypos="135.03"    zpos="748.24"    GUID="aXcOKETXlkamIpHI3daKnA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-161.42"   ypos="114.32"    zpos="204.81"    GUID="WWdx6uxi10ePudOePCh0Rw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-161.3"    ypos="204.01"    zpos="975.93"    GUID="uTYlAE3b7Eqk6SxV5vF3Hg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-152.99"   ypos="5.58"      zpos="282.12"    GUID="1FhttgyYHEOVpTUuM5MtGA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-147.05"   ypos="99.62"     zpos="715.28"    GUID="vZK1C9/WjEGLyfFnNJz+fQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-89.14"    ypos="134.15"    zpos="749.23"    GUID="a3oV8WkA/Uqb9c/+aSqyeQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-88.25"    ypos="52.125"    zpos="539.5"     GUID="nL1iD4V270OWUK935wr/2A==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-74.89"    ypos="83.84"     zpos="713.81"    GUID="H+GDhfbwJEOPGhSWFSGBvA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-22.51"    ypos="45.73"     zpos="345.16"    GUID="dg6pQ5M3xEqj0rUFICvw5Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="-18.72"    ypos="5.42"      zpos="451.09"    GUID="EE9ZVvdgWEW09bLS+cRpJA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="33.06"     ypos="127.41"    zpos="819.23"    GUID="TZ4Mu562DUOMHuWjh6EyNw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="40.25"     ypos="34.5"      zpos="541.5"     GUID="A3yu4xRrXk24ynzZe3Silw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="113.75"    ypos="32.75"     zpos="501.375"   GUID="FTQ+k6h9JUuCcDZl3Q9LWw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="158.77"    ypos="5.88"      zpos="631.73"    GUID="BrJ4U51MX0+h08JPcQe2JA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="170.625"   ypos="9.75"      zpos="362.125"   GUID="NXnRW+9B4kuo5uC9h37Jtg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="172.08"    ypos="9.7"       zpos="327.84"    GUID="1atLmJTMoUKnS/WPtPEMVg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="238.5"     ypos="7.11"      zpos="585.53"    GUID="jH5MOhtDQ0itnet80s4Feg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="341.75"    ypos="80.22"     zpos="384.08"    GUID="RwncJGa6z0igDl3va2CWCQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="362.17"    ypos="10.96"     zpos="372.52"    GUID="DH7GjAuQhkOQ0hbNLPnCvw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="406.49"    ypos="97.63"     zpos="179.53"    GUID="Z0E64EsqgEiAkx0NKAirZA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="474.01"    ypos="61.63"     zpos="519.25"    GUID="rWRp1nBOtE2Eux9H4+yl8Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="489.12"    ypos="48.6"      zpos="407.42"    GUID="qzplfAftt02VX0YU9F0wBA==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="489.19"    ypos="81.38"     zpos="592.93"    GUID="YdJRo+9fSUinjGs5OLJxDg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="493.88"    ypos="13.03"     zpos="344.95"    GUID="di2eKAaZbESqq9rPSs8GGw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="509.35"    ypos="61.98"     zpos="511.56"    GUID="g13RXCHupEKJ+81Ez5vBaQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="516.95"    ypos="32.22"     zpos="920.5"     GUID="deUQkbxQBUWwrKdhTbPgOw==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
+		<POI MapID="1422" xpos="534.19"    ypos="81.71"     zpos="560.04"    GUID="hAQDM1j++Eax55fxz7I8cg==" type="abaddon.assistances.tactical.end_of_dragons.jade_power.jade_battery"/><!-- OK -->
 
 		<!-- Jade Tech Defensive Protocols -->
 		<POI MapID="1442" xpos="-179.875"  ypos="11.125"    zpos="-136.875"  GUID="PxLK2wBo50qF0PSu1CYrlQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
@@ -161,11 +228,36 @@
 		<POI MapID="1438" xpos="406.125"   ypos="2.625"     zpos="-360.875"  GUID="92be1DJhoEWU/R9a53udNA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
 		<POI MapID="1438" xpos="483.75"    ypos="2.625"     zpos="550.75"    GUID="0vMaTj1DzEayIol7zSivag==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
 		<POI MapID="1438" xpos="501.5"     ypos="2.75"      zpos="-72.625"   GUID="kWA2s1ftBE2aHfDF+TVgvw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
+		<POI MapID="1438" xpos="529.75"    ypos="96.125"    zpos="686.625"   GUID="RG3TF8/HhUWJIZCvCMsCnw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
 		<POI MapID="1438" xpos="558"       ypos="2.875"     zpos="-262.75"   GUID="9nTArU8G106NEw1RYs5v0Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
 		<POI MapID="1438" xpos="568.625"   ypos="3"         zpos="-172.625"  GUID="FdSeyQEImUy9lMTabQtL5A==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
 		<POI MapID="1438" xpos="851.75"    ypos="62.75"     zpos="-320.625"  GUID="XXE79bZNb0WC60JfkNd9Qw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
 		<POI MapID="1438" xpos="933.375"   ypos="26.75"     zpos="-640.875"  GUID="zRzlAcE9oEae9sj91mWdrg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
 		<POI MapID="1438" xpos="969"       ypos="2.625"     zpos="-262.25"   GUID="T+V1tqfzREm/9svLkmgi3w==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/>
+		<POI MapID="1452" xpos="-630.75"   ypos="158.25"    zpos="314.625"   GUID="gs9mpemJvEC9ZNqTQTetiw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1452" xpos="887.09"    ypos="51.73"     zpos="570.64"    GUID="kcr9Es1NyEChFqvQe158tA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1452" xpos="933.62"    ypos="83.3"      zpos="306.53"    GUID="mGNNczU0B02f5xzWnKmSxg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1452" xpos="1030.27"   ypos="89.62"     zpos="40.28"     GUID="y11CnLaLd0GSyhwLUP5MTQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1452" xpos="1052.35"   ypos="13.17"     zpos="408.35"    GUID="dmm+m9kMJESozEAieVSsAQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1452" xpos="1057.4"    ypos="4.88"      zpos="545.74"    GUID="1ZAzwM7KOkGpqtURlPCHKg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-455.28"   ypos="225.33"    zpos="998.37"    GUID="Al7UdeCz0E2s23R7pPRvKQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-426.62"   ypos="114.49"    zpos="283.38"    GUID="h7AjU8fRcUiPgL2cDvem6Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-409.55"   ypos="215.08"    zpos="909.43"    GUID="tKakyDxrNUauQhmbgEPxPw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-398.56"   ypos="114.79"    zpos="428.74"    GUID="C8Z9L4hwq0Kb3OOkCd70rg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-378.87"   ypos="130.0"     zpos="150.33"    GUID="RT/4sYLgtUKMqkyPyWm0jg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-294.28"   ypos="148.42"    zpos="52.42"     GUID="8fnpEieXAk2uee+/egr91g==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-262.65"   ypos="121.49"    zpos="173.93"    GUID="ko0hN3jUf0qSMyFHIHedmg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-195.66"   ypos="180.45"    zpos="874.38"    GUID="PyxJ4Q/pj0qzUK8/VUvCoQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-118.16"   ypos="93.4"      zpos="690.8"     GUID="inP17eGrjEW6/AqXF2PpGg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-62.3"     ypos="105.14"    zpos="817.87"    GUID="VBEfUi6hg0Sa2fhJTNCaHQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-56.53"    ypos="45.58"     zpos="294.55"    GUID="/ZpuBhp8IE+A8D9JZSj7AQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="81.25"     ypos="9.99"      zpos="320.44"    GUID="n4GuyigkHkiDq9FUbXBj9Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="123.375"   ypos="34.375"    zpos="499.25"    GUID="xyjkGfbucke/pKa6PuLjkg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="334.38"    ypos="54.8"      zpos="540.37"    GUID="7t27i89zI0KuRPhCAuLzKw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="471.39"    ypos="15.12"     zpos="880.59"    GUID="m4ypIJl97k6LIc2X3uVN+g==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="496.94"    ypos="60.29"     zpos="467.42"    GUID="ciCJVDiGNUqDUYIJA+uhZQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="498.74"    ypos="81.22"     zpos="603.68"    GUID="8AhTi3nPEk206QMaFrEzTg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
+		<POI MapID="1422" xpos="532.97"    ypos="97.15"     zpos="251.0"     GUID="nnRkZOSJPU2LJRvRJTIoqw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.defensive"/><!-- OK -->
 
 		<!-- Jade Tech Offensive Protocols -->
 		<POI MapID="1442" xpos="-395.75"   ypos="2.5"       zpos="-247.375"  GUID="Dg3vgzKcJEizqsn8raMjZA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
@@ -190,10 +282,34 @@
 		<POI MapID="1438" xpos="523"       ypos="2.625"     zpos="-82.875"   GUID="YopN0e2trUyZi0t0A1Lzhg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
 		<POI MapID="1438" xpos="568.25"    ypos="3.75"      zpos="-584.875"  GUID="EVIoFn90wEW+/Dp7khPxJw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
 		<POI MapID="1438" xpos="612.75"    ypos="2.625"     zpos="-178.125"  GUID="WEj2Mc2fCUioo3qsj74agw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
+		<POI MapID="1438" xpos="626.5"     ypos="109.875"   zpos="695.625"   GUID="sUrtd9qQAkWCGi+P41HqSg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
 		<POI MapID="1438" xpos="654.75"    ypos="2.75"      zpos="-195.125"  GUID="taBIw+jDtUiDTMeI0yYi6A==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
+		<POI MapID="1438" xpos="734.625"   ypos="96"        zpos="655.375"   GUID="zS3qi92OwUaZOFhKn0dtqA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
 		<POI MapID="1438" xpos="901.875"   ypos="1"         zpos="-292.75"   GUID="861uN+ygakCn8CXpMv9+dQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
 		<POI MapID="1438" xpos="911.25"    ypos="0.75"      zpos="-384.375"  GUID="WMxZ4LlUpEGpb9eENTvhMg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
 		<POI MapID="1438" xpos="976.25"    ypos="0.875"     zpos="-590.375"  GUID="oasx0ywfxki1AeSkbgS1Lg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/>
+		<POI MapID="1452" xpos="-609"      ypos="158.375"   zpos="337.75"    GUID="YGuWwTzRQUWdg2t3inuWdA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1452" xpos="840.25"    ypos="6.01"      zpos="677.36"    GUID="UlocO3+BuEqNABLx3cVCCg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1452" xpos="975.55"    ypos="17.65"     zpos="554.1"     GUID="xUoNCyYzsUa4ctazNlr4ug==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1452" xpos="1008.56"   ypos="41.36"     zpos="284.32"    GUID="bAQG+88Gx0W1Nk3V6meb4Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1452" xpos="1087.58"   ypos="10.23"     zpos="440.52"    GUID="k7uajyBQbU6iQ+nXlEI2ZA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-427.91"   ypos="148.39"    zpos="427.11"    GUID="ZyjEafwWikeMerdXTVap3Q==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-419.91"   ypos="148.16"    zpos="160.38"    GUID="/5ptd4SV0E+6TcisWPjPgg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-309.13"   ypos="193.15"    zpos="926.32"    GUID="fpB2WPlzskWBQCch3Hbngw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-256.49"   ypos="124.01"    zpos="687.91"    GUID="XycQKF2OqEavwkwXgaDiuA==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-244.96"   ypos="143.94"    zpos="738.27"    GUID="VQJc62ZZiEmXOc5fmZQKhw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-218.98"   ypos="62.27"     zpos="272.58"    GUID="cKpilqQVU0SjsBrYdjdmEQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-138.12"   ypos="176.31"    zpos="877.11"    GUID="oEvqiysAGEGAz+HjOH4lgQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="-94.57"    ypos="119.05"    zpos="861.29"    GUID="2fM7neRTakmDosmmozDyjg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="24.39"     ypos="27.73"     zpos="309.58"    GUID="lrasR/TxeUq8nhUAUIeLBg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="168.29"    ypos="9.77"      zpos="353.14"    GUID="BXgLrkkEqUOyw9KvIdTfVw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="171.125"   ypos="32.75"     zpos="474"       GUID="7bY7YK0DMEqPjj0496Ijig==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="329.24"    ypos="105.18"    zpos="585.76"    GUID="BxOeIs72tE21Stcim9mW/w==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="336.62"    ypos="80.29"     zpos="369.96"    GUID="oeficpmLg0i4wkKu/Tk5jw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="440.24"    ypos="2.2"       zpos="811.59"    GUID="trQ8b/yvR0ewBSStDOeXBQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="465.43"    ypos="33.33"     zpos="970.57"    GUID="/7BEMUsihEWzhrTFahP/Aw==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="466.09"    ypos="61.67"     zpos="512.18"    GUID="ECI020aNPkWbSAA1umq9pQ==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
+		<POI MapID="1422" xpos="530.0"     ypos="65.74"     zpos="847.26"    GUID="MGQLXGSB/UmnPSo9g2RTzg==" type="abaddon.assistances.tactical.end_of_dragons.jade_tech_protocols.offensive"/><!-- OK -->
 
 		<!-- Teleporters -->
 		<POI MapID="1438" xpos="-20.875"   ypos="20.5"      zpos="-70.625"   GUID="qW/xbHbKqECmKIJ8MqB0gA==" type="abaddon.assistances.navigation.end_of_dragons.new_kaineng_city.teleporter" tip-name="Ministry Ward"/>
