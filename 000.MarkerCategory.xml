@@ -4220,7 +4220,10 @@
 				<MarkerCategory name="lumber_synthesizer"																DisplayName="Lumber Synthesizer"/>
 			</MarkerCategory>
 			<MarkerCategory name="ores"																					DisplayName="Ores"																										iconFile="Img/Harvestables/Ore.png"><!-- TODO: Icons -->
+				<MarkerCategory name="mithril_rich"																		DisplayName="Rich Mithril"																								iconFile="Img/Harvestables/Ore/MithrilRich.png"/>
+				<MarkerCategory name="quartz_crystal"																	DisplayName="Quartz Crystal"																							iconFile="Img/Harvestables/Ore/QuartCrystal.png"/>
 				<MarkerCategory name="ore_synthesizer"																	DisplayName="Ore Synthesizer"/>
+				<MarkerCategory name="jadeite"																			DisplayName="Jadeite"/>
 			</MarkerCategory>
 			<MarkerCategory name="plants"																				DisplayName="Plants"																									iconFile="Img/Harvestables/Plant.png"><!-- TODO: Icons -->
 				<MarkerCategory name="cabbage"																			DisplayName="Cabbage"																									iconFile="Img/Harvestables/Plant/Cabbage.png"/>
