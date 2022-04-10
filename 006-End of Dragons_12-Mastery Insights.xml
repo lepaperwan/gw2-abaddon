@@ -9,6 +9,10 @@
 		<POI MapID="1438" xpos="976.25"    ypos="68.375"    zpos="-311.625"  GUID="5PI0/pcGGUK9lIdsjw88cA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__petrified_shipping_docks"		heightOffset="3.125"/>
 		<POI MapID="1438" xpos="559.625"   ypos="81.125"    zpos="-212.875"  GUID="+Z7GgJSGu0ut+ECTgQcrYA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__lutgardis_plaza_rooftop_garden"/>
 		<POI MapID="1438" xpos="641"       ypos="92.125"    zpos="-398.875"  GUID="DXTFqa1NZUemn6xTabB3QA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__salvage_yard"/>
+
+		<!-- Dragon's End -->
+		<POI MapID="1422" xpos="-456.4"    ypos="158.44"    zpos="614.17"    GUID="zwdHWnxMY0W1Lxu9YlreOw==" type="abaddon.end_of_dragons.mastery_insights.dragon_s_end_insight__warehouse"/>
+		<POI MapID="1422" xpos="191.84"    ypos="144.37"    zpos="974.91"    GUID="umY4IV4Oy0qyzJYQD1dT4Q==" type="abaddon.end_of_dragons.mastery_insights.thirsty_tourist"/>
 	</POIs>
 </OverlayData>
 
