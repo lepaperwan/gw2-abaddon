@@ -2,6 +2,9 @@
 
 <OverlayData>
 	<POIs>
+		<!-- A Strange Diet -->
+		<POI MapID="1422" xpos="512.39"    ypos="158.76"    zpos="-78.91"    GUID="KASvCFabIkOKQU/Kio+ESw==" type="abaddon.end_of_dragons.dragon_s_end.a_strange_diet"/>
+
 		<!-- Dead Play -->
 		<POI MapID="1422" xpos="-407.106"  ypos="179.12"    zpos="560.812"   GUID="YzniALRUM0CENu6fDRJsqg==" type="abaddon.end_of_dragons.dragon_s_end.dead_play"                                achievementBit="0"    tip-description="n°1"/>
 		<POI MapID="1422" xpos="129.04"    ypos="7.72267"   zpos="908.817"   GUID="SON1DAegwEezrK6gk9MK3A==" type="abaddon.end_of_dragons.dragon_s_end.dead_play"                                achievementBit="1"    tip-description="n°2"/>
