@@ -78,6 +78,7 @@
 		<POI MapID="1422" xpos="106.586"   ypos="177.266"   zpos="-265.99"   GUID="g1HQUUGMckuhPhLGaX56pg==" type="abaddon.end_of_dragons.dragon_s_end.lighting_dragon_s_end"                    achievementBit="56"   tip-description="n°57"/>
 
 		<!-- Respects Paid -->
+		<POI MapID="1422" xpos="393.58"    ypos="92.8"      zpos="1003.06"   GUID="qE1A6J4JiUaLuRNj52nprA==" type="abaddon.end_of_dragons.dragon_s_end.respects_paid"                            achievementBit="0"    tip-description="n°1"/>
 		<POI MapID="1422" xpos="513.577"   ypos="108.966"   zpos="150.952"   GUID="lICqCpZOckSpY3jSoRI9Cw==" type="abaddon.end_of_dragons.dragon_s_end.respects_paid"                            achievementBit="2"    tip-description="n°3"/>
 		<POI MapID="1422" xpos="490.093"   ypos="80.1686"   zpos="557.713"   GUID="g5Z6HQGQ9Eq1FE2RyXQYZw==" type="abaddon.end_of_dragons.dragon_s_end.respects_paid"                            achievementBit="4"    tip-description="n°5"/>
 		<POI MapID="1422" xpos="552.878"   ypos="82.5675"   zpos="739.229"   GUID="VMSOfaz/m0Gm93ip88fMvw==" type="abaddon.end_of_dragons.dragon_s_end.respects_paid"                            achievementBit="5"    tip-description="n°6"/>
