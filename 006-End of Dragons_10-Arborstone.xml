@@ -28,7 +28,9 @@
 
 		<!-- Lost Lore -->
 		<POI MapID="1428" xpos="-669"      ypos="119.25"    zpos="562"       GUID="HwHcGnanhUCRbmPVQcnSSw==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="10"/>
+		<POI MapID="1442" xpos="-618.76"   ypos="146.13"    zpos="-28.85"    GUID="zLDNDTcNckSonfxk/tAsaQ==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="1"    tip-description="Dissolution of the Ministry of Purity, 1747 CC"/>
 		<POI MapID="1442" xpos="-974.25"   ypos="173.75"    zpos="410.625"   GUID="JWKWv8iTvUq838OsrjCRzQ==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="4"    tip-description="Ministry of Justice Rulings, 1738-1741 CC"/>
+		<POI MapID="1442" xpos="889.49"    ypos="27.61"     zpos="423.0"     GUID="eVjOL9KbqkmNZbQ4sk0gZw==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="5"    tip-description="Proclamations on the Risen Threat, 1730 CC"/>
 		<POI MapID="1438" xpos="271.5"     ypos="2.625"     zpos="172.5"     GUID="PIqhew5R902iI62wQkaxEw==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="7"    tip-description="Registry of Offenses, 1689 CC"/>
 		<POI MapID="1442" xpos="177"       ypos="82.625"    zpos="-353.125"  GUID="Anrd7Q8sGESWJNTEuUpp+Q==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="8"    tip-description="Collected Ministry Edicts, 1747 CC"/>
 		<POI MapID="1428" xpos="-669"      ypos="119.25"    zpos="562"       GUID="U4Oq1jpUS6GGGVgDKQ7jMw==" type="abaddon.end_of_dragons.arborstone.lost_lore"                                  achievementBit="9"/>
