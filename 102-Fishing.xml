@@ -2,6 +2,14 @@
 
 <OverlayData>
 	<POIs>
+		<!-- Gendarran Fields -->
+		<POI MapID="24"   xpos="-196.14"   ypos="1.38"      zpos="468.48"    GUID="yiy3P0diPU2it84Vqyn3Ew==" type="abaddon.fishing.river"/>
+		<POI MapID="24"   xpos="-244.84"   ypos="1.38"      zpos="539.24"    GUID="3c9WsDBCqkK7mgemotBNkA==" type="abaddon.fishing.river"/>
+
+		<!-- Sparkfly Fen -->
+		<POI MapID="53"   xpos="-573.29"   ypos="1.38"      zpos="-462.46"   GUID="QAsm2EbkWE+5VDuyP1oCxg==" type="abaddon.fishing.saltwater"/>
+		<POI MapID="53"   xpos="-635.65"   ypos="1.38"      zpos="-427.21"   GUID="wnWtzqGbQUOFi1mqWhIwrA==" type="abaddon.fishing.saltwater"/>
+
 		<!-- Straits of Devastation -->
 		<POI MapID="51"   xpos="397"       ypos="1.375"     zpos="274.625"   GUID="HOmQSshG/0WylrTtMNc3sg==" type="abaddon.fishing.offshore"/>
 		<POI MapID="51"   xpos="448.625"   ypos="1.375"     zpos="379.375"   GUID="DlVZZ/EgR0SMsjNeSO2MJg==" type="abaddon.fishing.offshore"/>
@@ -121,16 +129,23 @@
 		<POI MapID="1452" xpos="810"       ypos="1.375"     zpos="-685.25"   GUID="QF4+o7ZnlUOTaXLrGzav6A==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="961.625"   ypos="1.375"     zpos="-588"      GUID="6M4f/C0YB0Cdee/GzqxnCA==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="970.5"     ypos="1.375"     zpos="-658.75"   GUID="Joz4EEzB2Um6cL2FaTmDzQ==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="978.51"    ypos="1.38"      zpos="622.09"    GUID="Sqx/Y4z5TUmV/nCwz4o6ng==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="986.75"    ypos="1.375"     zpos="-634.375"  GUID="KfioI53ps0a9414JiE1Weg==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="1002.52"   ypos="1.38"      zpos="595.67"    GUID="616PsoD7jkWWqFE5XaYdvQ==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="1016.4"    ypos="1.38"      zpos="688.3"     GUID="UT6EvM0sxUKcDnQ3hgRAVg==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="1033.52"   ypos="1.38"      zpos="631.97"    GUID="RL6ZVXqZCE+c06LadbUNVw==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="1054.62"   ypos="1.38"      zpos="716.88"    GUID="z2kwLK2qm06+iLJel7x9dw==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="1066.71"   ypos="1.38"      zpos="591.13"    GUID="nakUWEq4T0qPFceve+Jdxw==" type="abaddon.fishing.lake"/>
+		<POI MapID="1452" xpos="1091.31"   ypos="1.38"      zpos="612.24"    GUID="GsQrkij39kenUDGMKGVfRQ==" type="abaddon.fishing.lake"/>
 		<POI MapID="1452" xpos="1100.16"   ypos="1.38"      zpos="576.4"     GUID="DXNe3shv3UKOj8yMS1lxew==" type="abaddon.fishing.lake"/>
 
 		<!-- Dragon's End -->
+		<POI MapID="1422" xpos="-286.56"   ypos="1.38"      zpos="295.74"    GUID="iV2gGTMXX0yjgaTn0+yoSA==" type="abaddon.fishing.quarry"/>
+		<POI MapID="1422" xpos="-236.2"    ypos="1.38"      zpos="352.48"    GUID="3OL31pnWHUqcIy6yZbAnAA==" type="abaddon.fishing.quarry"/>
 		<POI MapID="1422" xpos="-179.09"   ypos="1.38"      zpos="373.35"    GUID="7XIwXvhycU+0de5QTR0BYw==" type="abaddon.fishing.quarry"/>
 		<POI MapID="1422" xpos="63.86"     ypos="1.38"      zpos="283.44"    GUID="vuX/uqkhrUKx5OTxp5FJng==" type="abaddon.fishing.quarry"/>
 		<POI MapID="1422" xpos="133.09"    ypos="1.38"      zpos="463.37"    GUID="4iV08rFfK0yIch+h+bKk6w==" type="abaddon.fishing.quarry"/>
+		<POI MapID="1422" xpos="144.53"    ypos="1.38"      zpos="282.15"    GUID="slMb8MqAuE23crNs3F8WCA==" type="abaddon.fishing.quarry"/>
 		<POI MapID="1422" xpos="159.38"    ypos="1.38"      zpos="825.11"    GUID="N3N5DkSRbUe7ApX53n4dHw==" type="abaddon.fishing.quarry"/>
 		<POI MapID="1422" xpos="172.04"    ypos="1.38"      zpos="618.54"    GUID="KbuXEqHsrkGY/cHdSaZ59Q==" type="abaddon.fishing.quarry"/>
 		<POI MapID="1422" xpos="172.25"    ypos="1.38"      zpos="567.8"     GUID="jT2GgtzfK0eDK/5pwutVVQ==" type="abaddon.fishing.quarry"/>
