@@ -47,13 +47,19 @@
 		<!-- New Kaineng City -->
 
 		<!-- Echovald Wilds -->
+		<POI MapID="1452" xpos="-531.7"    ypos="164.1"     zpos="-244.29"   GUID="A5invkJlR0GOI/Hh/1wvmA==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/><!-- OK -->
 		<POI MapID="1452" xpos="-417"      ypos="218.5"     zpos="357.75"    GUID="7wglARqtX0uYw9+me+PUhw==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
 		<POI MapID="1452" xpos="-393.75"   ypos="149.125"   zpos="16.375"    GUID="riZ7/EFTSkShQiwmjuuOfw==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
+		<POI MapID="1452" xpos="-25.5"     ypos="144.76"    zpos="-314.07"   GUID="ZsklIv9nKUqMERcHnc50VQ==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/><!-- OK -->
 		<POI MapID="1452" xpos="161.875"   ypos="146.75"    zpos="-111.875"  GUID="+iLvudagaUmqgoKEStN4Hw==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
+		<POI MapID="1452" xpos="212.39"    ypos="193.75"    zpos="538.21"    GUID="guRqbm3iLkqKjmlm9/M9JA==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/><!-- OK -->
 		<POI MapID="1452" xpos="258"       ypos="86.625"    zpos="-304.375"  GUID="gTMdEmZksEGiiMu8YE3lQA==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
 		<POI MapID="1452" xpos="297.5"     ypos="225.25"    zpos="13"        GUID="LlY4MV48tEaNYsGI/qU1VA==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
+		<POI MapID="1452" xpos="398.34"    ypos="257.11"    zpos="84.18"     GUID="CWpq8AmdL0OVztVdDdtc2w==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/><!-- OK -->
+		<POI MapID="1452" xpos="752.8"     ypos="142.31"    zpos="157.35"    GUID="nVE15Fah/0Kr5RPCJSsvow==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/><!-- OK -->
 		<POI MapID="1452" xpos="867.75"    ypos="103.75"    zpos="-101.875"  GUID="dENGAl1Jnkac9duRS4DeBw==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
 		<POI MapID="1452" xpos="905.125"   ypos="5.625"     zpos="-366"      GUID="fZKrZL1Irk+MALGccfLvxw==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/>
+		<POI MapID="1452" xpos="907.47"    ypos="111.52"    zpos="-17.39"    GUID="b0D+VY2RfUC9BLFpVSYudA==" type="abaddon.harvestables.lumber.petrified_echovald_sapling"/><!-- OK -->
 		<POI MapID="1452" xpos="771.625"   ypos="-0.375"    zpos="708.25"    GUID="etWpSZiPqEuGILukjNMioQ==" type="abaddon.harvestables.plants.cabbage"/>
 		<POI MapID="1452" xpos="771.5"     ypos="-0.375"    zpos="711.25"    GUID="qYi+S8nxDUed/m/72BAZ9g==" type="abaddon.harvestables.plants.cabbage"/>
 		<POI MapID="1452" xpos="771.625"   ypos="-0.375"    zpos="714.5"     GUID="Rxg756sy7kuCZrRDto3kqA==" type="abaddon.harvestables.plants.cabbage"/>
@@ -75,6 +81,9 @@
 		<POI MapID="1452" xpos="780.125"   ypos="-0.375"    zpos="717.875"   GUID="Op+8T9vSoU+dUEcecy9zPA==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="780.25"    ypos="-0.375"    zpos="724.75"    GUID="eO8XUq5f1EeiuVZ7q09Aug==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="780.5"     ypos="-0.375"    zpos="721.375"   GUID="aT63Bn3tlE+w9oBgY3iPZA==" type="abaddon.harvestables.plants.spinach"/>
+		<POI MapID="1452" xpos="842.49"    ypos="138.31"    zpos="52.91"     GUID="mKEPYAqd3Eqp+GbmDuNSCQ==" type="abaddon.harvestables.plants.spinach"/>
+		<POI MapID="1452" xpos="843.23"    ypos="138.54"    zpos="74.99"     GUID="SOzEkYgW4UCSeLrQ/xQwYw==" type="abaddon.harvestables.plants.spinach"/>
+		<POI MapID="1452" xpos="861.67"    ypos="138.31"    zpos="83.45"     GUID="kgzcZtjmSkq+CNS3FUBFLQ==" type="abaddon.harvestables.plants.spinach"/>
 		<POI MapID="1452" xpos="-182.25"   ypos="110.375"   zpos="-722.125"  GUID="FvHhFd7QU0y/hWX57SIltw==" type="abaddon.harvestables.plants.taproots"/>
 		<POI MapID="1452" xpos="-178.75"   ypos="110.375"   zpos="-744.25"   GUID="vRmTw7wO8kCVeFgREOlDmA==" type="abaddon.harvestables.plants.taproots"/>
 		<POI MapID="1452" xpos="-163.625"  ypos="110.375"   zpos="-723"      GUID="3ZDdK3TMD0S0IRnNiNmowg==" type="abaddon.harvestables.plants.taproots"/>
@@ -93,19 +102,31 @@
 		<POI MapID="1422" xpos="-251.41"   ypos="-171.3"    zpos="353.7"     GUID="16caxBVzykGKOxYmHlU43Q==" type="abaddon.harvestables.ores.quartz_crystal"/>
 		<POI MapID="1422" xpos="-234.93"   ypos="-173.91"   zpos="368.2"     GUID="IjGXKqVM9UGrRsJE18+tcg==" type="abaddon.harvestables.ores.quartz_crystal"/>
 		<POI MapID="1422" xpos="-175.125"  ypos="-74.75"    zpos="342.875"   GUID="mi1r5vLg30i5Lvb0qaGgpA==" type="abaddon.harvestables.ores.quartz_crystal"/>
+		<POI MapID="1422" xpos="-480.86"   ypos="148.45"    zpos="177.93"    GUID="yQ26P8L+JEit5q1ehnEI1g==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-458.73"   ypos="162.52"    zpos="140.68"    GUID="cfltJUE18U2Qd0oWsO/i6Q==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-364.94"   ypos="98.91"     zpos="249.68"    GUID="ilF7U+QH1ESCXZdSpWWLBQ==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-363.93"   ypos="150.96"    zpos="15.75"     GUID="4Ejbe461lUeNwPXxSdSioA==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="-347.01"   ypos="-41.58"    zpos="316.44"    GUID="54wm8rB/90e4S9tvXKNs+g==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="-346.95"   ypos="133.1"     zpos="85.78"     GUID="/N+vzqOwD0WPu3Wmbn27wQ==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="-339.13"   ypos="149.49"    zpos="-74.4"     GUID="xPVmJ6tv00qnmhqjnwEgdQ==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-306.125"  ypos="-57"       zpos="388.75"    GUID="bbm4OUBbU0CLALrhxWttng==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-242.625"  ypos="-174.75"   zpos="329"       GUID="ecgwL+2B0ECaRnf0InQ/4w==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="-229.71"   ypos="-163.19"   zpos="351.65"    GUID="tzeX5lBhMEuivKgprVb6Kg==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-224.25"   ypos="-91.75"    zpos="384.625"   GUID="PVJZmvM0U0CPRPgTSjd5Ew==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-177.97"   ypos="-75.09"    zpos="337.79"    GUID="NurAJNz9hE2BkXmABgFg1w==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="-139.52"   ypos="133.7"     zpos="87.75"     GUID="84T+ZUW6N02ESCOrLVr+rQ==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="-138.08"   ypos="1.6"       zpos="276.89"    GUID="jsjZMfLm5EiQ4VDvMtZwmg==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="-76.8"     ypos="4.27"      zpos="274.65"    GUID="NctNtnSfZEGaijVRvj77VA==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="62.58"     ypos="-6.09"     zpos="285.91"    GUID="JjO0OjDSeE+KZaxaW9UiOg==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="66.5"      ypos="8.21"      zpos="250.34"    GUID="dSk4EEDsVE2XAFmo2MVlIw==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="67.64"     ypos="0.9"       zpos="262.88"    GUID="jt4UkUoABUGVcWzs5B6GQA==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="74.99"     ypos="165.99"    zpos="74.52"     GUID="lfTZQg06kEiJigiPFS9PiA==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="83.97"     ypos="147.89"    zpos="71.42"     GUID="9xoEs7OfM02DChmcPtXYEA==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="134.5"     ypos="-10.2"     zpos="272.9"     GUID="jaeaTW+EMESUvlQW3omZHA==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="277.39"    ypos="90.07"     zpos="243.21"    GUID="UJ81XgmnME+rJBUJjPX8Bg==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="525.74"    ypos="97.27"     zpos="218.18"    GUID="IN8QpoECBU62VnFW7TrBjA==" type="abaddon.harvestables.ores.jadeite"/>
 		<POI MapID="1422" xpos="545.39"    ypos="11.31"     zpos="277.51"    GUID="kMHQhaG/Z0uiMzub88jvig==" type="abaddon.harvestables.ores.jadeite"/>
+		<POI MapID="1422" xpos="589.63"    ypos="93.21"     zpos="396.82"    GUID="wl4Z44H38EGzxB43+IjjRQ==" type="abaddon.harvestables.ores.jadeite"/>
 	</POIs>
 </OverlayData>
 
