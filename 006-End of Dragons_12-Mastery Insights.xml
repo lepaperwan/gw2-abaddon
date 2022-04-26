@@ -11,6 +11,8 @@
 		<POI MapID="1438" xpos="641"       ypos="92.125"    zpos="-398.875"  GUID="DXTFqa1NZUemn6xTabB3QA==" type="abaddon.end_of_dragons.mastery_insights.new_kaineng_insight__salvage_yard"/>
 
 		<!-- Dragon's End -->
+		<POI MapID="1422" xpos="13.37"     ypos="172.11"    zpos="132.64"    GUID="cbcOHVuWCkasEww7zj3+UA==" type="abaddon.end_of_dragons.mastery_insights.dragon_s_end_insight__jade_waves"/>
+		<POI MapID="1422" xpos="-20.59"    ypos="205.6"     zpos="868.63"    GUID="5M/IH0CYNEWhlTeQ2GJr/w==" type="abaddon.end_of_dragons.mastery_insights.dragon_s_end_insight__quarry_crane"/>
 		<POI MapID="1422" xpos="-456.4"    ypos="158.44"    zpos="614.17"    GUID="zwdHWnxMY0W1Lxu9YlreOw==" type="abaddon.end_of_dragons.mastery_insights.dragon_s_end_insight__warehouse"/>
 		<POI MapID="1422" xpos="191.84"    ypos="144.37"    zpos="974.91"    GUID="umY4IV4Oy0qyzJYQD1dT4Q==" type="abaddon.end_of_dragons.mastery_insights.thirsty_tourist"/>
 	</POIs>
