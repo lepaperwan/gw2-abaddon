@@ -3,12 +3,16 @@
 <OverlayData>
 	<POIs>
 		<!-- Gendarran Fields -->
-		<POI MapID="24"   xpos="-196.14"   ypos="1.38"      zpos="468.48"    GUID="yiy3P0diPU2it84Vqyn3Ew==" type="abaddon.fishing.river"/>
 		<POI MapID="24"   xpos="-244.84"   ypos="1.38"      zpos="539.24"    GUID="3c9WsDBCqkK7mgemotBNkA==" type="abaddon.fishing.river"/>
+		<POI MapID="24"   xpos="-196.14"   ypos="1.38"      zpos="468.48"    GUID="yiy3P0diPU2it84Vqyn3Ew==" type="abaddon.fishing.river"/>
 
 		<!-- Sparkfly Fen -->
-		<POI MapID="53"   xpos="-573.29"   ypos="1.38"      zpos="-462.46"   GUID="QAsm2EbkWE+5VDuyP1oCxg==" type="abaddon.fishing.saltwater"/>
 		<POI MapID="53"   xpos="-635.65"   ypos="1.38"      zpos="-427.21"   GUID="wnWtzqGbQUOFi1mqWhIwrA==" type="abaddon.fishing.saltwater"/>
+		<POI MapID="53"   xpos="-583.08"   ypos="1.38"      zpos="-564.09"   GUID="E1Yur1f3q0WhhN4dsHDTJA==" type="abaddon.fishing.saltwater"/>
+		<POI MapID="53"   xpos="-573.29"   ypos="1.38"      zpos="-462.46"   GUID="QAsm2EbkWE+5VDuyP1oCxg==" type="abaddon.fishing.saltwater"/>
+		<POI MapID="53"   xpos="-540.35"   ypos="1.38"      zpos="-277.28"   GUID="pEUXOYobzEWFR0VF1dGGmg==" type="abaddon.fishing.saltwater"/>
+		<POI MapID="53"   xpos="-433.21"   ypos="1.38"      zpos="16.39"     GUID="KXZpx4XaS0KIas1GxZq08g==" type="abaddon.fishing.saltwater"/>
+		<POI MapID="53"   xpos="-422.32"   ypos="1.38"      zpos="-95.12"    GUID="Ip0X1lj9+EmU8Dn6t99oIQ==" type="abaddon.fishing.saltwater"/>
 
 		<!-- Straits of Devastation -->
 		<POI MapID="51"   xpos="397"       ypos="1.375"     zpos="274.625"   GUID="HOmQSshG/0WylrTtMNc3sg==" type="abaddon.fishing.offshore"/>
