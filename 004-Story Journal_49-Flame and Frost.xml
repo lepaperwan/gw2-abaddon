@@ -1,0 +1,21 @@
+<!-- SPDX-License-Identifier: CC-BY-4.0 -->
+
+<OverlayData>
+	<POIs>
+		<!-- Secret Contact -->
+		<POI MapID="32"   xpos="-907.88"   ypos="67.58"     zpos="-184.92"   GUID="2X+gnnjYpUCWJ/a2ZOVzxA==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
+		<POI MapID="32"   xpos="-899.54"   ypos="101.16"    zpos="323.69"    GUID="hFtDRSIMlU6G+BgRlDx4JA==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
+		<POI MapID="32"   xpos="-597.54"   ypos="32.42"     zpos="-367.05"   GUID="kpkzBoTwjE669TjoUXpZfg==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
+		<POI MapID="32"   xpos="-543.94"   ypos="102.09"    zpos="475.62"    GUID="Jm7fXI2bSkuGTfFS53S3HQ==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
+		<POI MapID="32"   xpos="-447.91"   ypos="41.06"     zpos="176.78"    GUID="8295m1F+mEeDJa3mz+wjMw==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
+		<POI MapID="32"   xpos="-430.05"   ypos="120.67"    zpos="354.54"    GUID="GcC7k+3AVEakiQkr47TGIg==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
+		<POI MapID="28"   xpos="312.76"    ypos="205.05"    zpos="1189.82"   GUID="2gt8+PYTRUqhsgOGxnMG5Q==" type="abaddon.story_journal.flame_and_frost.secret_contact"                         achievementBit="6"/>
+		<POI MapID="28"   xpos="-309.64"   ypos="144.46"    zpos="1206.5"    GUID="WKCAf0VkHEGQ7DX6kHY+CQ==" type="abaddon.story_journal.flame_and_frost.secret_contact"                         achievementBit="7"/>
+		<POI MapID="28"   xpos="-3.34"     ypos="131.06"    zpos="836.79"    GUID="2B6tofFc4EGwHWv4nYuw4A==" type="abaddon.story_journal.flame_and_frost.secret_contact"                         achievementBit="8"/>
+		<POI MapID="28"   xpos="264.42"    ypos="90.66"     zpos="114.34"    GUID="dPCOLuT/sEeqBYztQGMPtA==" type="abaddon.story_journal.flame_and_frost.secret_contact"                         achievementBit="9"/>
+		<POI MapID="28"   xpos="371.38"    ypos="71.73"     zpos="-34.65"    GUID="QI7lCGVRXUeDq3lgDCTS0A==" type="abaddon.story_journal.flame_and_frost.secret_contact"                         achievementBit="10"/>
+		<POI MapID="28"   xpos="-213.01"   ypos="123.32"    zpos="368.31"    GUID="TRebCS4sTkicGjiagWFuDQ==" type="abaddon.story_journal.flame_and_frost.secret_contact"                         achievementBit="11"/>
+	</POIs>
+</OverlayData>
+
+<!-- vim: set fileencoding=utf-8 filetype=xml autoindent noexpandtab shiftwidth=4 softtabstop=4 tabstop=4 nowrap: -->
