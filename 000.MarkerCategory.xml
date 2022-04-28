@@ -73,6 +73,7 @@
 				<MarkerCategory name="evolution_within_decay"															DisplayName="Evolution within Decay"															achievementId="6446"/>
 				<MarkerCategory name="fallout"																			DisplayName="Fallout"																			achievementId="6146"/>
 				<MarkerCategory name="jade_shadow"																		DisplayName="Jade Shadow"																		achievementId="6340"/>
+				<MarkerCategory name="munitions_officer_s_log"															DisplayName="Munitions Officer's Log"															achievementId="6523"/>
 				<MarkerCategory name="nika_s_vengeance"																	DisplayName="Nika's Vengeance"																	achievementId="6208"/>
 				<MarkerCategory name="quiet_death"																		DisplayName="Quiet Death"																		achievementId="6294"/>
 				<MarkerCategory name="silenced_voices"																	DisplayName="Silenced Voices"																	achievementId="6391"/>
@@ -207,10 +208,10 @@
 				<MarkerCategory name="behind_enemy_lines"																DisplayName="Behind Enemy Lines"																achievementId="5380"/>
 				<MarkerCategory name="citadel_crasher"																	DisplayName="Citadel Crasher"																	achievementId="5420"/>
 				<MarkerCategory name="confer_with_bangar"																DisplayName="Confer with Bangar"																achievementId="5383"/>
-				<MarkerCategory name="death_to_the_corrupted"															DisplayName="Death to the Corrupted"															achievementId="5364"/>
 				<MarkerCategory name="death_to_the_corrupted"															DisplayName="Death to the Corrupted"															achievementId="5356"/>
-				<MarkerCategory name="death_to_the_dominion"															DisplayName="Death to the Dominion"																achievementId="5403"/>
+				<MarkerCategory name="death_to_the_corrupted"															DisplayName="Death to the Corrupted"															achievementId="5364"/>
 				<MarkerCategory name="death_to_the_dominion"															DisplayName="Death to the Dominion"																achievementId="5391"/>
+				<MarkerCategory name="death_to_the_dominion"															DisplayName="Death to the Dominion"																achievementId="5403"/>
 				<MarkerCategory name="drizzlewood_coast_combatant"														DisplayName="Drizzlewood Coast Combatant"														achievementId="5411"/>
 				<MarkerCategory name="drizzlewood_coast_insight__camp_cliffs"											DisplayName="Drizzlewood Coast Insight: Camp Cliffs"											achievementId="5415"/>
 				<MarkerCategory name="drizzlewood_coast_insight__falls"													DisplayName="Drizzlewood Coast Insight: Falls"													achievementId="5421"/>
@@ -1440,6 +1441,35 @@
 				<MarkerCategory name="zephyr_s_ascent"																	DisplayName="Zephyr's Ascent"																	achievementId="1640"/>
 				<MarkerCategory name="zephyr_s_leap"																	DisplayName="Zephyr's Leap"																		achievementId="1642"/>
 			</MarkerCategory>
+			<MarkerCategory name="flame_and_frost"																		DisplayName="Flame and Frost"																							iconFile="Img/64011d8e6cb6785741b263d2ae71d668.png">
+				<MarkerCategory name="a_quiet_celebration"																DisplayName="A Quiet Celebration"																achievementId="6536"/>
+				<MarkerCategory name="a_rallying_flame"																	DisplayName="A Rallying Flame"																	achievementId="572"/>
+				<MarkerCategory name="against_the_alliance"																DisplayName="Against the Alliance"																achievementId="6547"/>
+				<MarkerCategory name="alliance_breaker"																	DisplayName="Alliance Breaker"																	achievementId="571"/>
+				<MarkerCategory name="alliance_investigation"															DisplayName="Alliance Investigation"															achievementId="6538"/>
+				<MarkerCategory name="avenger_of_the_dispossessed"														DisplayName="Avenger of the Dispossessed"														achievementId="570"/>
+				<MarkerCategory name="braham___eirsson"																	DisplayName="Braham - Eirsson"																	achievementId="543"/>
+				<MarkerCategory name="braham___retake_cragstead"														DisplayName="Braham - Retake Cragstead"															achievementId="542"/>
+				<MarkerCategory name="braham__help_from_the_legions"													DisplayName="Braham: Help from the Legions"														achievementId="541"/>
+				<MarkerCategory name="flame_and_frost_mastery"															DisplayName="Flame and Frost Mastery"															achievementId="6539"/>
+				<MarkerCategory name="fractal_recursion__molten_boss"													DisplayName="Fractal Recursion: Molten Boss"													achievementId="6524"/>
+				<MarkerCategory name="fractal_recursion__molten_furnace"												DisplayName="Fractal Recursion: Molten Furnace"													achievementId="6531"/>
+				<MarkerCategory name="guiding_sign"																		DisplayName="Guiding Sign"																		achievementId="6554"/>
+				<MarkerCategory name="hero_s_aid"																		DisplayName="Hero's Aid"																		achievementId="544"/>
+				<MarkerCategory name="investigative_study_1"															DisplayName="Investigative Study 1"																achievementId="6535"/>
+				<MarkerCategory name="lost_and_found"																	DisplayName="Lost and Found"																	achievementId="536"/>
+				<MarkerCategory name="molten_furnace"																	DisplayName="Molten Furnace"																	achievementId="6529"/>
+				<MarkerCategory name="molten_memorial"																	DisplayName="Molten Memorial"																	achievementId="6548"/>
+				<MarkerCategory name="new_friends__new_enemies"															DisplayName="New Friends, New Enemies"															achievementId="6533"/>
+				<MarkerCategory name="rage_against_the_war_machine"														DisplayName="Rage Against the War Machine"														achievementId="569"/>
+				<MarkerCategory name="ready_ore_not"																	DisplayName="Ready Ore Not"																		achievementId="6528"/>
+				<MarkerCategory name="refugee_volunteer"																DisplayName="Refugee Volunteer"																	achievementId="460"/>
+				<MarkerCategory name="rox___the_hatchery"																DisplayName="Rox - The Hatchery"																achievementId="540"/>
+				<MarkerCategory name="rox__critical_mission"															DisplayName="Rox: Critical Mission"																achievementId="539"/>
+				<MarkerCategory name="secret_contact"																	DisplayName="Secret Contact"																	achievementId="537"/>
+				<MarkerCategory name="the_battle_for_cragstead"															DisplayName="The Battle for Cragstead"															achievementId="6553"/>
+				<MarkerCategory name="the_gathering_storm"																DisplayName="The Gathering Storm"																achievementId="461"/>
+			</MarkerCategory>
 		</MarkerCategory>
 
 		<!-- 56A82BB9-6B07-4AB0-89EE-E4A6D68F5C47 -->
@@ -1967,11 +1997,15 @@
 				<MarkerCategory name="hook__line__and_sinker"															DisplayName="Hook, Line, and Sinker"															achievementId="6232"/>
 				<MarkerCategory name="i_am_the_captain"																	DisplayName="I Am the Captain"																	achievementId="6422"/>
 				<MarkerCategory name="kaineng_overlook"																	DisplayName="Kaineng Overlook"																	achievementId="6243"/>
+				<MarkerCategory name="leaps_abound"																		DisplayName="Leaps Abound"																		achievementId="6527"/>
+				<MarkerCategory name="legendary_aetherblade_hideout"													DisplayName="Legendary Aetherblade Hideout"														achievementId="6433"/>
 				<MarkerCategory name="master_of_the_unseen"																DisplayName="Master of the Unseen"																achievementId="6335"/>
 				<MarkerCategory name="powered_up"																		DisplayName="Powered Up"																		achievementId="6434"/>
 				<MarkerCategory name="stomping_around"																	DisplayName="Stomping Around"																	achievementId="6176"/>
 				<MarkerCategory name="the_jade_vault"																	DisplayName="The Jade Vault"																	achievementId="6436"/>
 				<MarkerCategory name="the_six"																			DisplayName="The Six"																			achievementId="6302"/>
+				<MarkerCategory name="total_coverage"																	DisplayName="Total Coverage"																	achievementId="6550"/>
+				<MarkerCategory name="triangulation"																	DisplayName="Triangulation"																		achievementId="6530"/>
 				<MarkerCategory name="turtle_unlock__getting_stronger"													DisplayName="Turtle Unlock: Getting Stronger"													achievementId="6066"/>
 				<MarkerCategory name="turtle_unlock__starting_small"													DisplayName="Turtle Unlock: Starting Small"														achievementId="6408"/>
 				<MarkerCategory name="turtle_unlock__suiting_up"														DisplayName="Turtle Unlock: Suiting Up"															achievementId="6099"/>
@@ -1995,13 +2029,13 @@
 				<MarkerCategory name="fish_are_friends"																	DisplayName="Fish Are Friends"																	achievementId="6352"/>
 				<MarkerCategory name="hatchery_helper"																	DisplayName="Hatchery Helper"																	achievementId="6403"/>
 				<MarkerCategory name="illuminating_seitung_province"													DisplayName="Illuminating Seitung Province"														achievementId="6239"/>
-				<MarkerCategory name="jade_isles_mastery"																DisplayName="Jade Isles Mastery"																achievementId="6331"/>
 				<MarkerCategory name="jumping_training"																	DisplayName="Jumping Training"																	achievementId="6464"/>
 				<MarkerCategory name="misty_leap"																		DisplayName="Misty Leap"																		achievementId="6198"/>
 				<MarkerCategory name="purist_shenanigans"																DisplayName="Purist Shenanigans"																achievementId="6388"/>
 				<MarkerCategory name="renowned_adventurer__seitung_province"											DisplayName="Renowned Adventurer: Seitung Province"												achievementId="6494"/>
 				<MarkerCategory name="seitung_harbor_shenanigans"														DisplayName="Seitung Harbor Shenanigans"														achievementId="6150"/>
 				<MarkerCategory name="seitung_prison_springer_ride"														DisplayName="Seitung Prison Springer Ride"														achievementId="6136"/>
+				<MarkerCategory name="seitung_province_mastery"															DisplayName="Seitung Province Mastery"															achievementId="6331"/>
 				<MarkerCategory name="seitung_province_meta_event"														DisplayName="Seitung Province Meta-Event"														achievementId="6468"/>
 				<MarkerCategory name="shing_jea_monastery_raptor_ride"													DisplayName="Shing Jea Monastery Raptor Ride"													achievementId="6394"/>
 				<MarkerCategory name="spiritual_childcare"																DisplayName="Spiritual Childcare"																achievementId="6314"/>
@@ -2153,6 +2187,8 @@
 				<MarkerCategory name="winn_s_favorite_patron"															DisplayName="Winn's Favorite Patron"															achievementId="6270"/>
 			</MarkerCategory>
 			<MarkerCategory name="fishing"																				DisplayName="Fishing"																									iconFile="Img/2565fbc962f920a59d0502d25034be0d.png">
+				<MarkerCategory name="aquatic_trash_collector"															DisplayName="Aquatic Trash Collector"															achievementId="6439"/>
+				<MarkerCategory name="aquatic_treasure_collector"														DisplayName="Aquatic Treasure Collector"														achievementId="6505"/>
 				<MarkerCategory name="ascalonian_fisher"																DisplayName="Ascalonian Fisher"																	achievementId="6330"/>
 				<MarkerCategory name="avid_ascalonian_fisher"															DisplayName="Avid Ascalonian Fisher"															achievementId="6484"/>
 				<MarkerCategory name="avid_desert_fisher"																DisplayName="Avid Desert Fisher"																achievementId="6509"/>
@@ -2181,8 +2217,6 @@
 				<MarkerCategory name="krytan_fisher"																	DisplayName="Krytan Fisher"																		achievementId="6068"/>
 				<MarkerCategory name="maguuma_fisher"																	DisplayName="Maguuma Fisher"																	achievementId="6344"/>
 				<MarkerCategory name="my_guild_hall_smells_of_fish_progeny"												DisplayName="My Guild Hall Smells of Fish Progeny"												achievementId="6279"/>
-				<MarkerCategory name="oceanic_trash_collector"															DisplayName="Oceanic Trash Collector"															achievementId="6439"/>
-				<MarkerCategory name="oceanic_treasure_collector"														DisplayName="Oceanic Treasure Collector"														achievementId="6505"/>
 				<MarkerCategory name="orrian_fisher"																	DisplayName="Orrian Fisher"																		achievementId="6363"/>
 				<MarkerCategory name="ring_of_fire_fisher"																DisplayName="Ring of Fire Fisher"																achievementId="6489"/>
 				<MarkerCategory name="saltwater_fisher"																	DisplayName="Saltwater Fisher"																	achievementId="6471"/>
@@ -4145,6 +4179,7 @@
 				<MarkerCategory name="skyscale_toy_training"															DisplayName="Skyscale Toy Training"																achievementId="5066"/>
 				<MarkerCategory name="soaring_weapon_collection"														DisplayName="Soaring Weapon Collection"															achievementId="2815"/>
 				<MarkerCategory name="spectral_weapon_collection"														DisplayName="Spectral Weapon Collection"														achievementId="2904"/>
+				<MarkerCategory name="steel_lotus_weapon_collection"													DisplayName="Steel Lotus Weapon Collection"														achievementId="6525"/>
 				<MarkerCategory name="tempest_weapon_collection"														DisplayName="Tempest Weapon Collection"															achievementId="1761"/>
 				<MarkerCategory name="timekeeper_weapon_collection"														DisplayName="Timekeeper Weapon Collection"														achievementId="2763"/>
 				<MarkerCategory name="tormented_weapon_collection"														DisplayName="Tormented Weapon Collection"														achievementId="1735"/>
