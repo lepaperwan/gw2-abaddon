@@ -23,6 +23,7 @@
 		<POI MapID="51"   xpos="516.875"   ypos="1.375"     zpos="160.5"     GUID="782io0z1kEei4MAaX/ZpoQ==" type="abaddon.fishing.shore"/>
 
 		<!-- Crystal Oasis -->
+		<POI MapID="1210" xpos="-1088.2"   ypos="1.38"      zpos="-516.62"   GUID="fi0VyP86ZEeNRpZAxGfXKg==" type="abaddon.fishing.desert"/>
 		<POI MapID="1210" xpos="-1048"     ypos="1.375"     zpos="-535.875"  GUID="CdruxEhg10Czc5ncQCsOFQ==" type="abaddon.fishing.desert"/>
 
 		<!-- Seitung Province -->
