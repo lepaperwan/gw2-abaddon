@@ -2,6 +2,41 @@
 
 <OverlayData>
 	<POIs>
+		<!-- Investigative Study 1 -->
+		<POI MapID="1467" xpos="1.42"      ypos="246.54"    zpos="207.79"    GUID="PZzmNYCPFEiyd8eq5spNJw==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="0"    tip-description="Letter from Knut"/>
+		<POI MapID="1467" xpos="12.42"     ypos="246.39"    zpos="224.26"    GUID="py1z4bX6EEKgvwtYf74w1w==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="1"    tip-description="Field Report from the Ash Legion"/>
+		<POI MapID="1467" xpos="12.31"     ypos="246.39"    zpos="227.04"    GUID="atFO9gaYrEe2UfbzNjlm+g==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="2"    tip-description="Intel from Crecia"/>
+		<POI MapID="1364" xpos="-315.3"    ypos="210.69"    zpos="-67.53"    GUID="UfjBhXQwv0y/gaIYpKbz/A==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="3"    tip-description="Bloodstained Letter"/>
+		<POI MapID="901"  xpos="4.94"      ypos="148.25"    zpos="-61.99"    GUID="yF56NFTwV0y8q2CWBQHJeQ==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="4"    tip-description="Gigarg's Armor"/>
+		<POI MapID="901"  xpos="-243.21"   ypos="209.48"    zpos="-149.42"   GUID="8top1tQ+U0iVlOUvrBXs5A==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="5"    tip-description="Rodion's Blood Transfusion Results"/>
+		<POI MapID="901"  xpos="-178.6"    ypos="227.38"    zpos="30.13"     GUID="bfIkrnHKRkK9oUFuvOw6lg==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="6"    tip-description="Torn Page from Kostya's Lab Journal"/>
+		<POI MapID="901"  xpos="-222.12"   ypos="209.49"    zpos="-164.21"   GUID="r/uAareSIUWofSVMU4rYug==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="7"    tip-description="Bloodied Journal Entry"/>
+
+		<!-- Ready Ore Not -->
+		<POI MapID="901"  xpos="277.78"    ypos="260.15"    zpos="169.54"    GUID="QiLlNGLRWkmcEO9POH+hGw==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="0"/>
+		<POI MapID="901"  xpos="127.86"    ypos="257.24"    zpos="157.22"    GUID="NIeqwWrIV0GrWwnsPCpYcw==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="1"/>
+		<POI MapID="901"  xpos="86.88"     ypos="254.55"    zpos="112.67"    GUID="NiMNOADD1kG7g4bfOm2T2w==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="2"/>
+		<POI MapID="901"  xpos="54.92"     ypos="257.17"    zpos="157.84"    GUID="LFZO9FJPgUyjCtuiqNG11g==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="3"/>
+		<POI MapID="901"  xpos="26.44"     ypos="254.37"    zpos="111.16"    GUID="PL40cLNac0ivAsMlHsJDPQ==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="4"/>
+		<POI MapID="901"  xpos="-1.26"     ypos="254.49"    zpos="164.81"    GUID="zU+34TypxEynV69tP7/bIA==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="5"/>
+		<Trail                                                               GUID="TP1cDIk9M0GA557K4niHww==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="6"        trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/6.trl"   alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="-17.31"    ypos="263.48"    zpos="156.19"    GUID="UTbkbh4TXEupzejb2DwkzA==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="6"/>
+		<Trail                                                               GUID="qWmoA5Vy1Uma1EJCIt83NA==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="7"        trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/7.trl"   alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="19.93"     ypos="262.28"    zpos="162.65"    GUID="qNj3T/0GtUCJP/SO9Ip04Q==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="7"/>
+		<POI MapID="901"  xpos="-100.53"   ypos="130.47"    zpos="54.8"      GUID="bVZPECamLUO/yWs/PLYgrg==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="8"/>
+		<Trail                                                               GUID="iuY5kRdwr0majTJluSPZpg==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="9"        trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/9.trl"   alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="-125.69"   ypos="267.99"    zpos="141.13"    GUID="29cuDKLDeEiDMMlrO3gRAQ==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="9"/>
+		<Trail                                                               GUID="gWgdfCCgeUyAJmWKgw7k2w==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="10"       trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/10.trl"  alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="-249.73"   ypos="214.6"     zpos="192.87"    GUID="vxZdKZfZeEK1SsFu+CZW7A==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="10"/>
+		<Trail                                                               GUID="SHrgn7b2eEOxNJg0i/zc0A==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="11"       trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/11.trl"  alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="-167.43"   ypos="241.41"    zpos="80.37"     GUID="RR3oBJa3m0iBl+ZYbRPSwg==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="11"/>
+		<Trail                                                               GUID="IUWje+4SB0mZmBp/VWmT2Q==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="12"       trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/12.trl"  alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="-244.8"    ypos="226.55"    zpos="-18.44"    GUID="ibDUQ0iVFUmftPMDTa0YfQ==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="12"/>
+		<POI MapID="901"  xpos="-160.26"   ypos="205.35"    zpos="-157.23"   GUID="NKysPq/hCkuQEmNUWnIsCg==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="13"/>
+		<Trail                                                               GUID="PCZ3QPnTGEy52WnABIUTtQ==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="14"       trailData="Data/Story Journal/Flame and Frost/Ready Ore Not/14.trl"  alpha="0.8" fadeNear="2500" fadeFar="3000"  animSpeed="0"/>
+		<POI MapID="901"  xpos="-96.52"    ypos="139.21"    zpos="-118.13"   GUID="zWS3h4H4PkSuUJwmzF2unA==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="14"/>
+		<POI MapID="901"  xpos="29.24"     ypos="169.56"    zpos="-231.38"   GUID="tb83VTIfv0CVCcsa+XKmzg==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="15"/>
+
 		<!-- Secret Contact -->
 		<POI MapID="32"   xpos="-907.88"   ypos="67.58"     zpos="-184.92"   GUID="2X+gnnjYpUCWJ/a2ZOVzxA==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->
 		<POI MapID="32"   xpos="-899.54"   ypos="101.16"    zpos="323.69"    GUID="hFtDRSIMlU6G+BgRlDx4JA==" type="abaddon.story_journal.flame_and_frost.secret_contact"/><!-- TODO: achievementBit -->

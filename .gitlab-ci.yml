@@ -18,7 +18,7 @@ build:
       dotenv: gitlab-ci.env
   script:
   - echo  "BUILD_JOB_ID=${CI_JOB_ID}" > gitlab-ci.env
-  - zip -r -9 Abaddon.taco *.xml Img
+  - zip -r -9 Abaddon.taco *.xml Data Img
   stage: build
 
 test:
