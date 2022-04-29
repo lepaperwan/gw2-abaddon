@@ -12,6 +12,11 @@
 		<POI MapID="901"  xpos="-178.6"    ypos="227.38"    zpos="30.13"     GUID="bfIkrnHKRkK9oUFuvOw6lg==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="6"    tip-description="Torn Page from Kostya's Lab Journal"/>
 		<POI MapID="901"  xpos="-222.12"   ypos="209.49"    zpos="-164.21"   GUID="r/uAareSIUWofSVMU4rYug==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="7"    tip-description="Bloodied Journal Entry"/>
 
+		<!-- Molten Memorial -->
+		<POI MapID="901"  xpos="-158.39"   ypos="215.67"    zpos="-114.58"   GUID="vCSLTDBAT0+1tIN6R+TfHA==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="0"    tip-description="Crumpled Pages"/>
+		<POI MapID="901"  xpos="-42.35"    ypos="139.89"    zpos="-35.9"     GUID="zN4+yI8y4USPWWkk4IYRXg==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="2"    tip-description="Torn Letter"/>
+		<POI MapID="901"  xpos="-133.38"   ypos="127.32"    zpos="-42.09"    GUID="rFbqiaitMkObT1b2KRD0eg==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="4"    tip-description="Crude Drawing"/>
+
 		<!-- Ready Ore Not -->
 		<POI MapID="901"  xpos="277.78"    ypos="260.15"    zpos="169.54"    GUID="QiLlNGLRWkmcEO9POH+hGw==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="0"/>
 		<POI MapID="901"  xpos="127.86"    ypos="257.24"    zpos="157.22"    GUID="NIeqwWrIV0GrWwnsPCpYcw==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="1"/>
