@@ -2,6 +2,18 @@
 
 <OverlayData>
 	<POIs>
+		<!-- Guiding Sign -->
+		<POI MapID="32"   xpos="-758.48"   ypos="32.17"     zpos="-579.73"   GUID="e26rUSRhNEWkAs2YCprbsg==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-624.61"   ypos="38.16"     zpos="-467.01"   GUID="F73S6LPtTk6v0y4e1YTrlg==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-608.93"   ypos="44.48"     zpos="46.65"     GUID="9IU9g4gCP0efvNwKtbgHLg==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-550.02"   ypos="46.86"     zpos="55.68"     GUID="8Yv+r6fkb0GaTZWMtSNOUg==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-528.06"   ypos="24.78"     zpos="-402.68"   GUID="Yz46ulCLZ0WuKlsvYWvijQ==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-489.28"   ypos="45.43"     zpos="41.52"     GUID="kTPsBQIRCkKz/4dRbkmLRA==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-422.18"   ypos="44.99"     zpos="-49.59"    GUID="v86754Bec0efwoQsKJMt1g==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-416.07"   ypos="26.1"      zpos="-355.38"   GUID="o/SqCm3Dq0K9B6JtsG6dLA==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-376.81"   ypos="32.19"     zpos="-237.12"   GUID="nUHkDUpZzE25GyPV8PMIOw==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+		<POI MapID="32"   xpos="-376.29"   ypos="43.5"      zpos="-115.52"   GUID="27R3JITe8UqSpnJtC0+ZvQ==" type="abaddon.story_journal.flame_and_frost.guiding_sign"/>
+
 		<!-- Investigative Study 1 -->
 		<POI MapID="1467" xpos="1.42"      ypos="246.54"    zpos="207.79"    GUID="PZzmNYCPFEiyd8eq5spNJw==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="0"    tip-description="Letter from Knut"/>
 		<POI MapID="1467" xpos="12.42"     ypos="246.39"    zpos="224.26"    GUID="py1z4bX6EEKgvwtYf74w1w==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="1"    tip-description="Field Report from the Ash Legion"/>
@@ -12,10 +24,30 @@
 		<POI MapID="901"  xpos="-178.6"    ypos="227.38"    zpos="30.13"     GUID="bfIkrnHKRkK9oUFuvOw6lg==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="6"    tip-description="Torn Page from Kostya's Lab Journal"/>
 		<POI MapID="901"  xpos="-222.12"   ypos="209.49"    zpos="-164.21"   GUID="r/uAareSIUWofSVMU4rYug==" type="abaddon.story_journal.flame_and_frost.investigative_study_1"                  achievementBit="7"    tip-description="Bloodied Journal Entry"/>
 
+		<!-- Lost and Found -->
+		<POI MapID="32"   xpos="-534.52"   ypos="30.84"     zpos="-445.75"   GUID="Xs1hrjO+J0mQx3K+Mc4eCw==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="32"   xpos="-779.77"   ypos="46.71"     zpos="3.43"      GUID="VvawOby0kk6SnZhgaMW1QA==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="32"   xpos="-739.06"   ypos="46.28"     zpos="-49.97"    GUID="j3hx0yOYh0y6owbGPUEQeQ==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="28"   xpos="210.24"    ypos="203.67"    zpos="1232.95"   GUID="Qa9nCs1BXEmdsQg+WarzEw==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="28"   xpos="30.6"      ypos="120.89"    zpos="844.72"    GUID="m3LMFn0vjkCMPiPt01tH6A==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="28"   xpos="351.7"     ypos="73.4"      zpos="100.6"     GUID="F1KyIrxN8kmPbP+9LaoPAg==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="28"   xpos="133.01"    ypos="84.11"     zpos="397.59"    GUID="pElgZ8HmxEiYHMl4QieG/w==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="28"   xpos="362.21"    ypos="124.5"     zpos="918.59"    GUID="O+3vrqE5v0KOcwrRai0uOA==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="28"   xpos="-32.23"    ypos="124.64"    zpos="723.69"    GUID="i43emCV0kEatwj2q1++uoA==" type="abaddon.story_journal.flame_and_frost.lost_and_found"/>
+		<POI MapID="218"  xpos="0.53"      ypos="170.09"    zpos="305.14"    GUID="ieu6un0bXkejUY0vtWwE6w==" type="abaddon.story_journal.flame_and_frost.lost_and_found"                                               tip-description="Return the Refugee's Logbook"/>
+		<POI MapID="218"  xpos="-10.93"    ypos="170.64"    zpos="298.83"    GUID="ZRbcimqnzE+Ge+xldsUU1A==" type="abaddon.story_journal.flame_and_frost.lost_and_found"                                               tip-description="Return the Refugee's Sword Belt"/>
+		<POI MapID="218"  xpos="50.42"     ypos="170.73"    zpos="292.06"    GUID="L1dFiYOYTUmEtVBlj6o3EQ==" type="abaddon.story_journal.flame_and_frost.lost_and_found"                                               tip-description="Return the Refugee's Wooden Soldier"/>
+		<POI MapID="326"  xpos="401.56"    ypos="221.68"    zpos="65.78"     GUID="hP8NtI5ddEe9pe7PvV+4cA==" type="abaddon.story_journal.flame_and_frost.lost_and_found"                                               tip-description="Return the Refugee's Compass"/>
+		<POI MapID="326"  xpos="390.59"    ypos="222.65"    zpos="81.87"     GUID="9kQhjVSmP0eUfdZnFCSk7Q==" type="abaddon.story_journal.flame_and_frost.lost_and_found"                                               tip-description="Return the Refugee's Goblet"/>
+		<POI MapID="326"  xpos="389.58"    ypos="222.97"    zpos="57.6"      GUID="VTDj7OjoXkCjET2qEltV0w==" type="abaddon.story_journal.flame_and_frost.lost_and_found"                                               tip-description="Return the Refugee's Ship in a Bottle"/>
+
 		<!-- Molten Memorial -->
 		<POI MapID="901"  xpos="-158.39"   ypos="215.67"    zpos="-114.58"   GUID="vCSLTDBAT0+1tIN6R+TfHA==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="0"    tip-description="Crumpled Pages"/>
+		<POI MapID="218"  xpos="-97.44"    ypos="18.18"     zpos="-187.28"   GUID="IQERti/DV0uVRdomepKXYg==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="1"    tip-description="Deliver the Crumpled Pages"/>
 		<POI MapID="901"  xpos="-42.35"    ypos="139.89"    zpos="-35.9"     GUID="zN4+yI8y4USPWWkk4IYRXg==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="2"    tip-description="Torn Letter"/>
+		<POI MapID="326"  xpos="391.58"    ypos="261.97"    zpos="-118.69"   GUID="S0bB0WB/B0WbK+kWSUGVsQ==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="3"    tip-description="Deliver the Torn Letter"/>
 		<POI MapID="901"  xpos="-133.38"   ypos="127.32"    zpos="-42.09"    GUID="rFbqiaitMkObT1b2KRD0eg==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="4"    tip-description="Crude Drawing"/>
+		<POI MapID="50"   xpos="371.92"    ypos="29.58"     zpos="332.11"    GUID="5CAID+CGiECjBsq/aqmT+w==" type="abaddon.story_journal.flame_and_frost.molten_memorial"                        achievementBit="5"    tip-description="Deliver the Crude Drawing"/>
 
 		<!-- Ready Ore Not -->
 		<POI MapID="901"  xpos="277.78"    ypos="260.15"    zpos="169.54"    GUID="QiLlNGLRWkmcEO9POH+hGw==" type="abaddon.story_journal.flame_and_frost.ready_ore_not"                          achievementBit="0"/>
