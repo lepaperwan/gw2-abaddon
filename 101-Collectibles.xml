@@ -26,9 +26,12 @@
 		<POI MapID="1438" xpos="158.625"   ypos="-12.875"   zpos="-339.875"  GUID="iv/SnCGgwEi4q4q48OpZIw==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1438" xpos="305.625"   ypos="-10.25"    zpos="45.5"      GUID="GnRY7Vyt0UuFaH2eGL25mQ==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1438" xpos="563.5"     ypos="-12.75"    zpos="288.5"     GUID="8KcURocH4ECAPJgrAMvfbA==" type="abaddon.collectibles.chest"/>
+		<POI MapID="1438" xpos="628.91"    ypos="-14.14"    zpos="-166.46"   GUID="eBdB6rhzRUSeFwcBIIm5jA==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1438" xpos="669.375"   ypos="-10"       zpos="-542.5"    GUID="OijH15yMXEOuo8sS35QMFg==" type="abaddon.collectibles.chest"/>
+		<POI MapID="1438" xpos="724.13"    ypos="-12.97"    zpos="408.84"    GUID="x5GQ5r+olUG5yqRckvB/ww==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1438" xpos="724.75"    ypos="-17.75"    zpos="-371.75"   GUID="tw+lptf48ESPYRwQT+rlzg==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1438" xpos="875.125"   ypos="-46.25"    zpos="-9.25"     GUID="6xKUEbM/VEqWDpFygPzvEw==" type="abaddon.collectibles.chest"/>
+		<POI MapID="1438" xpos="930.92"    ypos="-10.69"    zpos="571.26"    GUID="TtXeB+1sMkGYm/+GOiZnSQ==" type="abaddon.collectibles.chest"/>
 		<POI MapID="1438" xpos="-850"      ypos="1.375"     zpos="-272.25"   GUID="/Gd0O+msy0WVmJ752J89jQ==" type="abaddon.collectibles.jade_tech_chest"/>
 		<POI MapID="1438" xpos="-698.75"   ypos="6"         zpos="-677.5"    GUID="UvTDlA7dm0OZeOht9nM86A==" type="abaddon.collectibles.jade_tech_chest"/>
 		<POI MapID="1438" xpos="-611.375"  ypos="198"       zpos="-403.125"  GUID="Gas80ZlVeUaLXQGILWfXYQ==" type="abaddon.collectibles.jade_tech_chest"/>
